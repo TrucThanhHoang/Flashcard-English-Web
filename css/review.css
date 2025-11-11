@@ -1,0 +1,28 @@
+.word-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px 0;
+
+    .word-card {
+      width: 100%;
+      background-color: #fff;
+      padding: 1rem;
+      border-radius: .65rem;
+      border: 1px solid #e0e0e0;
+      box-shadow: 0 4px 0 0 rgba(143, 156, 173, .2);
+
+      h4 {
+        margin-top: 8px;
+      }
+    }
+}
+
+#word-list-count  {
+    margin-top: 16px;
+}
+
+.word-examples {
+  margin-left: 24px;
+}

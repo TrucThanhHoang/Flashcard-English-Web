@@ -1,0 +1,84 @@
+.flashcard-container {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: .65rem;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 0 0 rgba(143, 156, 173, .2);
+}
+
+.flashcard-card {
+  .flashcard-front {
+    animation: flip-up 0.6s backwards;
+    
+    text-align: center;
+    height: 350px;
+    padding: 1rem 2rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .flashcard-back {
+    display: none;
+    /* animation: flip-down 0.6 forwards; */
+    height: 350px;
+    padding: 1rem 2rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    h4 {
+      margin-top: 8px;
+    }
+
+    ul {
+      margin-left: 24px;
+    }
+  }
+
+  &.flipped {
+    .flashcard-front {
+      display: none !important;
+      /* animation: flip-down 0.6s forwards; */
+    }
+
+    .flashcard-back {
+      display: flex !important;
+      animation: flip-up 0.6s backwards;
+    }
+  }
+}
+
+/* 
+@keyframes flip-down {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(180deg);
+  }
+} */
+
+@keyframes flip-up {
+  from {
+    transform: rotateY(180deg);
+  }
+  to {
+    transform: rotateY(0deg);
+  }
+}
+
+.flashcard-image {
+  width: 40%; 
+
+  img {
+    width: 100%;
+    object-fit: contain;
+  }
+}

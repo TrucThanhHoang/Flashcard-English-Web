@@ -35,35 +35,8 @@
     <section id="courses" class="flashcards">
         <h2>Popular Flashcard Sets</h2>
         <p>Start with our most popular vocabulary collections</p>
-        <div class="cards-container">
-            <div class="card">
-                <img src="images/index2.jpg" alt="Basic English Vocabulary">
-                <span class="level beginner">Beginner</span>
-                <h3>Basic English Vocabulary</h3>
-                <p>Essential words for everyday communication and basic conversations.</p>
-                <span class="cards-count">50 cards</span>
-                <button>Start Learning</button>
-            </div>
-    
-            <div class="card">
-                <img src="images/index3.jpg" alt="Animals & Nature">
-                <span class="level beginner">Beginner</span>
-                <h3>Animals & Nature</h3>
-                <p>Learn about different animals and natural elements in English.</p>
-                <span class="cards-count">40 cards</span>
-                <button>Start Learning</button>
-            </div>
-    
-            <div class="card">
-                <img src="images/index4.jpg" alt="Food & Drinks">
-                <span class="level intermediate">Intermediate</span>
-                <h3>Food & Drinks</h3>
-                <p>Vocabulary related to food, drinks, and dining experiences.</p>
-                <span class="cards-count">60 cards</span>
-                <button>Start Learning</button>
-            </div>
-        </div>
-        <button class="view-all">View All Flashcard Sets</button>
+        <div class="cards-container"></div>
+        <a href='flashcards/discover'><button class="view-all">View All Flashcard Sets</button></a>
     </section>
     
     
@@ -104,6 +77,58 @@
                 card.classList.toggle('flipped');
             });
         });
+
+        const flashcards = [{
+  title: 'Basic English Vocabulary',
+  level: 'Beginner',
+  description: 'Essential words for everyday communication and basic conversations.',
+  link: '../../flashcards/lists/basic/review.html',
+  count: 50,
+  image: {
+    src: '../../images/index2.jpg',
+    alt: 'Basic English Vocabulary Flashcards'
+  }
+},{
+  title: 'Animals & Nature',
+  level: 'Beginner',
+  description: 'Learn about different animals and natural elements in English.',
+  link: '../../flashcards/lists/animals/review.html',
+  count: 40,
+  image: {
+    src: '../../images/index3.jpg',
+    alt: 'Animals & Nature Flashcards'
+  }
+},{
+  title: 'Food & Drinks',
+  level: 'Intermediate',
+  description: 'Vocabulary related to food, drinks, and dining experiences.',
+  link: '../../flashcards/lists/food/review.html',
+  count: 60,
+  image: {
+    src: '../../images/index4.jpg',
+    alt: 'Food & Drinks Flashcards'
+  }
+}]
+
+const cardsContainer = document.querySelector('#courses .cards-container');
+
+flashcards.forEach(flashcard => {
+  const card = document.createElement('div');
+  card.className = 'card';
+
+  card.innerHTML = `
+    <img src="${flashcard.image.src}" alt="${flashcard.image.alt}" class="flashcard-image" />
+    <h3 class="flashcard-title">${flashcard.title}</h3>
+    <span class="level ${flashcard.level.toLowerCase()}">${flashcard.level}</span>
+    <p class="flashcard-description">${flashcard.description}</p>
+    <p class="flashcard-count">${flashcard.count} Cards</p>
+    <a href="${flashcard.link}">
+      <button>Review</button>
+    </a>
+  `;
+
+  cardsContainer.appendChild(card);
+});
     </script>
 
 </body>

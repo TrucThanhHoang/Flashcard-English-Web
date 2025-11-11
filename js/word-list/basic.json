@@ -1,0 +1,359 @@
+[
+  {
+    "word": "apple",
+    "definition": "A round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh.",
+    "example": ["She took a bite of the juicy apple."],
+    "type": "noun",
+    "pronunciation": "ˈæp.əl"
+  },
+  {
+    "word": "banana",
+    "definition": "A long curved fruit with a soft pulpy flesh and yellow skin when ripe.",
+    "example": ["He peeled a banana for breakfast."],
+    "type": "noun",
+    "pronunciation": "bəˈnæn.ə"
+  },
+  {
+    "word": "book",
+    "definition": "A set of written or printed pages, usually bound with a protective cover.",
+    "example": ["She borrowed a book from the library."],
+    "type": "noun",
+    "pronunciation": "bʊk"
+  },
+  {
+    "word": "cat",
+    "definition": "A small domesticated carnivorous mammal with soft fur and a short snout.",
+    "example": ["The cat slept on the windowsill."],
+    "type": "noun",
+    "pronunciation": "kæt"
+  },
+  {
+    "word": "dog",
+    "definition": "A domesticated carnivorous mammal typically kept as a pet or for work.",
+    "example": ["Their dog chased the ball in the park."],
+    "type": "noun",
+    "pronunciation": "dɔg"
+  },
+  {
+    "word": "house",
+    "definition": "A building for human habitation, especially one that is lived in by a family or small group.",
+    "example": ["They moved into a new house last month."],
+    "type": "noun",
+    "pronunciation": "haʊs"
+  },
+  {
+    "word": "car",
+    "definition": "A road vehicle, typically with four wheels, powered by an engine and able to carry a small number of people.",
+    "example": ["He parked the car outside the store."],
+    "type": "noun",
+    "pronunciation": "kɑr"
+  },
+  {
+    "word": "tree",
+    "definition": "A woody perennial plant with a single trunk and branches forming a canopy.",
+    "example": ["The old oak tree shaded the garden."],
+    "type": "noun",
+    "pronunciation": "triː"
+  },
+  {
+    "word": "river",
+    "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+    "example": ["They picnicked on the banks of the river."],
+    "type": "noun",
+    "pronunciation": "ˈrɪvər"
+  },
+  {
+    "word": "mountain",
+    "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+    "example": ["They climbed a mountain during their trip."],
+    "type": "noun",
+    "pronunciation": "ˈmaʊn.tən"
+  },
+  {
+    "word": "computer",
+    "definition": "An electronic device for storing and processing data, typically in binary form.",
+    "example": ["She uses a new computer for programming."],
+    "type": "noun",
+    "pronunciation": "kəmˈpjuː.tər"
+  },
+  {
+    "word": "phone",
+    "definition": "A system that converts acoustic vibrations to electrical signals in order to transmit sound, typically used for voice communication.",
+    "example": ["He answered the phone on the second ring."],
+    "type": "noun",
+    "pronunciation": "foʊn"
+  },
+  {
+    "word": "table",
+    "definition": "A piece of furniture with a flat top and one or more legs, used for placing items or working.",
+    "example": ["They set the plates on the table."],
+    "type": "noun",
+    "pronunciation": "ˈteɪ.bəl"
+  },
+  {
+    "word": "chair",
+    "definition": "A separate seat for one person, typically with a back and four legs.",
+    "example": ["Please take a chair and sit down."],
+    "type": "noun",
+    "pronunciation": "tʃɛər"
+  },
+  {
+    "word": "window",
+    "definition": "An opening in the wall of a building for admitting light and air, often fitted with glass.",
+    "example": ["She opened the window to let in fresh air."],
+    "type": "noun",
+    "pronunciation": "ˈwɪn.doʊ"
+  },
+  {
+    "word": "door",
+    "definition": "A hinged or sliding barrier used to close an entrance to a room or building.",
+    "example": ["He knocked and pushed the door open."],
+    "type": "noun",
+    "pronunciation": "dɔr"
+  },
+  {
+    "word": "school",
+    "definition": "An institution for educating children or providing instruction in particular subjects.",
+    "example": ["The children walked to school together."],
+    "type": "noun",
+    "pronunciation": "skuːl"
+  },
+  {
+    "word": "teacher",
+    "definition": "A person who teaches, especially in a school.",
+    "example": ["Her teacher explained the lesson clearly."],
+    "type": "noun",
+    "pronunciation": "ˈtiː.tʃər"
+  },
+  {
+    "word": "student",
+    "definition": "A person who is studying at a school or college.",
+    "example": ["The student submitted the assignment on time."],
+    "type": "noun",
+    "pronunciation": "ˈstuː.dənt"
+  },
+  {
+    "word": "city",
+    "definition": "A large and densely populated urban area with complex systems for housing, transportation, and infrastructure.",
+    "example": ["They moved to the city for work."],
+    "type": "noun",
+    "pronunciation": "ˈsɪt.i"
+  },
+  {
+    "word": "country",
+    "definition": "A nation with its own government, occupying a particular territory; also rural areas outside towns and cities.",
+    "example": ["She enjoys traveling in the countryside."],
+    "type": "noun",
+    "pronunciation": "ˈkʌn.tri"
+  },
+  {
+    "word": "music",
+    "definition": "Vocal or instrumental sounds combined to produce harmony, melody, or rhythm.",
+    "example": ["He listened to music while studying."],
+    "type": "noun",
+    "pronunciation": "ˈmjuː.zɪk"
+  },
+  {
+    "word": "song",
+    "definition": "A short piece of music with vocals, often with a distinct melody and lyrics.",
+    "example": ["That song always lifts her mood."],
+    "type": "noun",
+    "pronunciation": "sɔŋ"
+  },
+  {
+    "word": "art",
+    "definition": "Creative activity or the products of such activity, expressing imaginative skill and emotional power.",
+    "example": ["The gallery displayed modern art."],
+    "type": "noun",
+    "pronunciation": "ɑrt"
+  },
+  {
+    "word": "painting",
+    "definition": "The art or practice of applying paint to a surface to create an image or decoration.",
+    "example": ["He admired the painting at the museum."],
+    "type": "noun",
+    "pronunciation": "ˈpeɪn.tɪŋ"
+  },
+  {
+    "word": "movie",
+    "definition": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television.",
+    "example": ["They watched a movie on Friday night."],
+    "type": "noun",
+    "pronunciation": "ˈmuː.vi"
+  },
+  {
+    "word": "film",
+    "definition": "A thin layer or a motion picture; often used interchangeably with 'movie'.",
+    "example": ["The film won several awards at the festival."],
+    "type": "noun",
+    "pronunciation": "fɪlm"
+  },
+  {
+    "word": "coffee",
+    "definition": "A hot drink made from roasted and ground coffee beans brewed with water.",
+    "example": ["She needs a cup of coffee every morning."],
+    "type": "noun",
+    "pronunciation": "ˈkɒf.i"
+  },
+  {
+    "word": "tea",
+    "definition": "A hot or cold drink made by infusing tea leaves in water.",
+    "example": ["He prefers green tea after meals."],
+    "type": "noun",
+    "pronunciation": "tiː"
+  },
+  {
+    "word": "water",
+    "definition": "A transparent, tasteless, odorless liquid that forms the seas, lakes, rivers, and rain and is essential for most plant and animal life.",
+    "example": ["Drink plenty of water during the hike."],
+    "type": "noun",
+    "pronunciation": "ˈwɔː.tər"
+  },
+  {
+    "word": "bread",
+    "definition": "A staple food made from flour and water, typically baked.",
+    "example": ["They bought fresh bread from the bakery."],
+    "type": "noun",
+    "pronunciation": "brɛd"
+  },
+  {
+    "word": "cheese",
+    "definition": "A food made from pressed curds of milk, available in many textures and flavors.",
+    "example": ["She added cheese to the sandwich."],
+    "type": "noun",
+    "pronunciation": "tʃiːz"
+  },
+  {
+    "word": "market",
+    "definition": "A place where people buy and sell goods, or the activity of buying and selling those goods.",
+    "example": ["They visited the local market on Saturday."],
+    "type": "noun",
+    "pronunciation": "ˈmɑr.kɪt"
+  },
+  {
+    "word": "garden",
+    "definition": "A piece of ground where flowers, shrubs, or vegetables are grown.",
+    "example": ["She tends the vegetables in her garden."],
+    "type": "noun",
+    "pronunciation": "ˈgɑr.dən"
+  },
+  {
+    "word": "flower",
+    "definition": "The seed-bearing part of a plant, often colorful and fragrant.",
+    "example": ["He picked a flower for her."],
+    "type": "noun",
+    "pronunciation": "ˈflaʊ.ər"
+  },
+  {
+    "word": "sun",
+    "definition": "The star at the center of the solar system that provides light and heat to the planets.",
+    "example": ["The sun rose over the horizon."],
+    "type": "noun",
+    "pronunciation": "sʌn"
+  },
+  {
+    "word": "moon",
+    "definition": "A natural satellite that orbits a planet; commonly refers to Earth's satellite.",
+    "example": ["They watched the full moon together."],
+    "type": "noun",
+    "pronunciation": "muːn"
+  },
+  {
+    "word": "star",
+    "definition": "A fixed luminous point in the night sky which is a large remote incandescent body like the sun.",
+    "example": ["The sky was full of stars last night."],
+    "type": "noun",
+    "pronunciation": "stɑr"
+  },
+  {
+    "word": "sky",
+    "definition": "The region of the atmosphere and outer space seen from Earth; it appears blue by day and black by night.",
+    "example": ["The sky turned orange at sunset."],
+    "type": "noun",
+    "pronunciation": "skaɪ"
+  },
+  {
+    "word": "cloud",
+    "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
+    "example": ["Dark clouds signaled an approaching storm."],
+    "type": "noun",
+    "pronunciation": "klaʊd"
+  },
+  {
+    "word": "rain",
+    "definition": "Drops of water that fall from clouds in the sky.",
+    "example": ["They canceled the picnic because of rain."],
+    "type": "noun",
+    "pronunciation": "reɪn"
+  },
+  {
+    "word": "snow",
+    "definition": "Frozen atmospheric water vapor that falls in light white flakes.",
+    "example": ["Children built a snowman after the snowfall."],
+    "type": "noun",
+    "pronunciation": "snoʊ"
+  },
+  {
+    "word": "wind",
+    "definition": "The natural movement of air, often felt as a breeze or strong gusts.",
+    "example": ["The wind blew the leaves across the yard."],
+    "type": "noun",
+    "pronunciation": "wɪnd"
+  },
+  {
+    "word": "fire",
+    "definition": "The rapid oxidation of a material producing heat, light, and flame.",
+    "example": ["They warmed themselves by the campfire."],
+    "type": "noun",
+    "pronunciation": "faɪər"
+  },
+  {
+    "word": "stone",
+    "definition": "A hard solid nonmetallic mineral matter of which rock is made.",
+    "example": ["He skipped a stone across the lake."],
+    "type": "noun",
+    "pronunciation": "stoʊn"
+  },
+  {
+    "word": "glass",
+    "definition": "A hard, brittle substance, typically transparent, used for windows or containers.",
+    "example": ["Be careful with the glass vase."],
+    "type": "noun",
+    "pronunciation": "glæs"
+  },
+  {
+    "word": "paper",
+    "definition": "Material manufactured in thin sheets from the pulp of wood, used for writing or printing.",
+    "example": ["She folded the paper into a paper airplane."],
+    "type": "noun",
+    "pronunciation": "ˈpeɪ.pər"
+  },
+  {
+    "word": "money",
+    "definition": "A medium of exchange in the form of coins and banknotes used to buy goods and services.",
+    "example": ["He counted the money before paying the bill."],
+    "type": "noun",
+    "pronunciation": "ˈmʌn.i"
+  },
+  {
+    "word": "time",
+    "definition": "The indefinite continued progress of existence and events measured in seconds, minutes, hours, etc.",
+    "example": ["They didn't have enough time to finish the project."],
+    "type": "noun",
+    "pronunciation": "taɪm"
+  },
+  {
+    "word": "day",
+    "definition": "A period of 24 hours as a unit of time, from midnight to midnight, or the time between sunrise and sunset.",
+    "example": ["She worked all day on the report."],
+    "type": "noun",
+    "pronunciation": "deɪ"
+  },
+  {
+    "word": "night",
+    "definition": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+    "example": ["The town is quiet at night."],
+    "type": "noun",
+    "pronunciation": "naɪt"
+  }
+]
