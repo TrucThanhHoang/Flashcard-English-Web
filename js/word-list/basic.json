@@ -1,0 +1,461 @@
+[
+  {
+    "word": "apple",
+    "definition": "A round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh.",
+    "examples": ["She took a bite of the juicy apple."],
+    "type": "noun",
+    "pronunciation": "ˈæp.əl",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "banana",
+    "definition": "A long curved fruit with a soft pulpy flesh and yellow skin when ripe.",
+    "examples": ["He peeled a banana for breakfast."],
+    "type": "noun",
+    "pronunciation": "bəˈnæn.ə",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "book",
+    "definition": "A set of written or printed pages, usually bound with a protective cover.",
+    "examples": ["She borrowed a book from the library."],
+    "type": "noun",
+    "pronunciation": "bʊk",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/book_/book__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "cat",
+    "definition": "A small domesticated carnivorous mammal with soft fur and a short snout.",
+    "examples": ["The cat slept on the windowsill."],
+    "type": "noun",
+    "pronunciation": "kæt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "dog",
+    "definition": "A domesticated carnivorous mammal typically kept as a pet or for work.",
+    "examples": ["Their dog chased the ball in the park."],
+    "type": "noun",
+    "pronunciation": "dɔg",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "house",
+    "definition": "A building for human habitation, especially one that is lived in by a family or small group.",
+    "examples": ["They moved into a new house last month."],
+    "type": "noun",
+    "pronunciation": "haʊs",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/house/house__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "car",
+    "definition": "A road vehicle, typically with four wheels, powered by an engine and able to carry a small number of people.",
+    "examples": ["He parked the car outside the store."],
+    "type": "noun",
+    "pronunciation": "kɑr",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/car__/car__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "tree",
+    "definition": "A woody perennial plant with a single trunk and branches forming a canopy.",
+    "examples": ["The old oak tree shaded the garden."],
+    "type": "noun",
+    "pronunciation": "triː",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "river",
+    "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+    "examples": ["They picnicked on the banks of the river."],
+    "type": "noun",
+    "pronunciation": "ˈrɪvər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "mountain",
+    "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+    "examples": ["They climbed a mountain during their trip."],
+    "type": "noun",
+    "pronunciation": "ˈmaʊn.tən",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "computer",
+    "definition": "An electronic device for storing and processing data, typically in binary form.",
+    "examples": ["She uses a new computer for programming."],
+    "type": "noun",
+    "pronunciation": "kəmˈpjuː.tər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compu/computer__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "phone",
+    "definition": "A system that converts acoustic vibrations to electrical signals in order to transmit sound, typically used for voice communication.",
+    "examples": ["He answered the phone on the second ring."],
+    "type": "noun",
+    "pronunciation": "foʊn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/phone/phone__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "table",
+    "definition": "A piece of furniture with a flat top and one or more legs, used for placing items or working.",
+    "examples": ["They set the plates on the table."],
+    "type": "noun",
+    "pronunciation": "ˈteɪ.bəl",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tab/table/table__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "chair",
+    "definition": "A separate seat for one person, typically with a back and four legs.",
+    "examples": ["Please take a chair and sit down."],
+    "type": "noun",
+    "pronunciation": "tʃɛər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chair/chair__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "window",
+    "definition": "An opening in the wall of a building for admitting light and air, often fitted with glass.",
+    "examples": ["She opened the window to let in fresh air."],
+    "type": "noun",
+    "pronunciation": "ˈwɪn.doʊ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windo/window__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "door",
+    "definition": "A hinged or sliding barrier used to close an entrance to a room or building.",
+    "examples": ["He knocked and pushed the door open."],
+    "type": "noun",
+    "pronunciation": "dɔr",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/doo/door_/door__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "school",
+    "definition": "An institution for educating children or providing instruction in particular subjects.",
+    "examples": ["The children walked to school together."],
+    "type": "noun",
+    "pronunciation": "skuːl",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sch/schoo/school__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "teacher",
+    "definition": "A person who teaches, especially in a school.",
+    "examples": ["Her teacher explained the lesson clearly."],
+    "type": "noun",
+    "pronunciation": "ˈtiː.tʃər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/teach/teacher__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "student",
+    "definition": "A person who is studying at a school or college.",
+    "examples": ["The student submitted the assignment on time."],
+    "type": "noun",
+    "pronunciation": "ˈstuː.dənt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/stude/student__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "city",
+    "definition": "A large and densely populated urban area with complex systems for housing, transportation, and infrastructure.",
+    "examples": ["They moved to the city for work."],
+    "type": "noun",
+    "pronunciation": "ˈsɪt.i",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cit/city_/city__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "country",
+    "definition": "A nation with its own government, occupying a particular territory; also rural areas outside towns and cities.",
+    "examples": ["She enjoys traveling in the countryside."],
+    "type": "noun",
+    "pronunciation": "ˈkʌn.tri",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/country__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "music",
+    "definition": "Vocal or instrumental sounds combined to produce harmony, melody, or rhythm.",
+    "examples": ["He listened to music while studying."],
+    "type": "noun",
+    "pronunciation": "ˈmjuː.zɪk",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "song",
+    "definition": "A short piece of music with vocals, often with a distinct melody and lyrics.",
+    "examples": ["That song always lifts her mood."],
+    "type": "noun",
+    "pronunciation": "sɔŋ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/son/song_/song__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "art",
+    "definition": "Creative activity or the products of such activity, expressing imaginative skill and emotional power.",
+    "examples": ["The gallery displayed modern art."],
+    "type": "noun",
+    "pronunciation": "ɑrt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art__/art__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "painting",
+    "definition": "The art or practice of applying paint to a surface to create an image or decoration.",
+    "examples": ["He admired the painting at the museum."],
+    "type": "noun",
+    "pronunciation": "ˈpeɪn.tɪŋ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/paint/painting__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "movie",
+    "definition": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television.",
+    "examples": ["They watched a movie on Friday night."],
+    "type": "noun",
+    "pronunciation": "ˈmuː.vi",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movie/movie__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "film",
+    "definition": "A thin layer or a motion picture; often used interchangeably with 'movie'.",
+    "examples": ["The film won several awards at the festival."],
+    "type": "noun",
+    "pronunciation": "fɪlm",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fil/film_/film__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "coffee",
+    "definition": "A hot drink made from roasted and ground coffee beans brewed with water.",
+    "examples": ["She needs a cup of coffee every morning."],
+    "type": "noun",
+    "pronunciation": "ˈkɒf.i",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cof/coffe/coffee__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "tea",
+    "definition": "A hot or cold drink made by infusing tea leaves in water.",
+    "examples": ["He prefers green tea after meals."],
+    "type": "noun",
+    "pronunciation": "tiː",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "water",
+    "definition": "A transparent, tasteless, odorless liquid that forms the seas, lakes, rivers, and rain and is essential for most plant and animal life.",
+    "examples": ["Drink plenty of water during the hike."],
+    "type": "noun",
+    "pronunciation": "ˈwɔː.tər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "bread",
+    "definition": "A staple food made from flour and water, typically baked.",
+    "examples": ["They bought fresh bread from the bakery."],
+    "type": "noun",
+    "pronunciation": "brɛd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "cheese",
+    "definition": "A food made from pressed curds of milk, available in many textures and flavors.",
+    "examples": ["She added cheese to the sandwich."],
+    "type": "noun",
+    "pronunciation": "tʃiːz",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "market",
+    "definition": "A place where people buy and sell goods, or the activity of buying and selling those goods.",
+    "examples": ["They visited the local market on Saturday."],
+    "type": "noun",
+    "pronunciation": "ˈmɑr.kɪt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/market__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "garden",
+    "definition": "A piece of ground where flowers, shrubs, or vegetables are grown.",
+    "examples": ["She tends the vegetables in her garden."],
+    "type": "noun",
+    "pronunciation": "ˈgɑr.dən",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "flower",
+    "definition": "The seed-bearing part of a plant, often colorful and fragrant.",
+    "examples": ["He picked a flower for her."],
+    "type": "noun",
+    "pronunciation": "ˈflaʊ.ər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "sun",
+    "definition": "The star at the center of the solar system that provides light and heat to the planets.",
+    "examples": ["The sun rose over the horizon."],
+    "type": "noun",
+    "pronunciation": "sʌn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "moon",
+    "definition": "A natural satellite that orbits a planet; commonly refers to Earth's satellite.",
+    "examples": ["They watched the full moon together."],
+    "type": "noun",
+    "pronunciation": "muːn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "star",
+    "definition": "A fixed luminous point in the night sky which is a large remote incandescent body like the sun.",
+    "examples": ["The sky was full of stars last night."],
+    "type": "noun",
+    "pronunciation": "stɑr",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "sky",
+    "definition": "The region of the atmosphere and outer space seen from Earth; it appears blue by day and black by night.",
+    "examples": ["The sky turned orange at sunset."],
+    "type": "noun",
+    "pronunciation": "skaɪ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sky/sky__/sky__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "cloud",
+    "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
+    "examples": ["Dark clouds signaled an approaching storm."],
+    "type": "noun",
+    "pronunciation": "klaʊd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "rain",
+    "definition": "Drops of water that fall from clouds in the sky.",
+    "examples": ["They canceled the picnic because of rain."],
+    "type": "noun",
+    "pronunciation": "reɪn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "snow",
+    "definition": "Frozen atmospheric water vapor that falls in light white flakes.",
+    "examples": ["Children built a snowman after the snowfall."],
+    "type": "noun",
+    "pronunciation": "snoʊ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snow_/snow__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "wind",
+    "definition": "The natural movement of air, often felt as a breeze or strong gusts.",
+    "examples": ["The wind blew the leaves across the yard."],
+    "type": "noun",
+    "pronunciation": "wɪnd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "fire",
+    "definition": "The rapid oxidation of a material producing heat, light, and flame.",
+    "examples": ["They warmed themselves by the campfire."],
+    "type": "noun",
+    "pronunciation": "faɪər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fir/fire_/fire__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "stone",
+    "definition": "A hard solid nonmetallic mineral matter of which rock is made.",
+    "examples": ["He skipped a stone across the lake."],
+    "type": "noun",
+    "pronunciation": "stoʊn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sto/stone/stone__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "glass",
+    "definition": "A hard, brittle substance, typically transparent, used for windows or containers.",
+    "examples": ["Be careful with the glass vase."],
+    "type": "noun",
+    "pronunciation": "glæs",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "paper",
+    "definition": "Material manufactured in thin sheets from the pulp of wood, used for writing or printing.",
+    "examples": ["She folded the paper into a paper airplane."],
+    "type": "noun",
+    "pronunciation": "ˈpeɪ.pər",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pap/paper/paper__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "money",
+    "definition": "A medium of exchange in the form of coins and banknotes used to buy goods and services.",
+    "examples": ["He counted the money before paying the bill."],
+    "type": "noun",
+    "pronunciation": "ˈmʌn.i",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/money/money__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "time",
+    "definition": "The indefinite continued progress of existence and events measured in seconds, minutes, hours, etc.",
+    "examples": ["They didn't have enough time to finish the project."],
+    "type": "noun",
+    "pronunciation": "taɪm",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/time_/time__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "day",
+    "definition": "A period of 23 hours as a unit of time, from midnight to midnight, or the time between sunrise and sunset.",
+    "examples": ["She worked all day on the report."],
+    "type": "noun",
+    "pronunciation": "deɪ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/day/day__/day__us_1.mp3",
+    "difficulty": "hard"
+  },
+  {
+    "word": "night",
+    "definition": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+    "examples": ["The town is quiet at night."],
+    "type": "noun",
+    "pronunciation": "naɪt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/night__us_1.mp3",
+    "difficulty": "hard"
+  }
+]

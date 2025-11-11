@@ -1,0 +1,16 @@
+.bg-blue-gradient {
+    background-color: #aee1f9;
+    background-image: linear-gradient(315deg, #aee1f9, #f6ebe6 74%);
+}
+
+.content-header {
+    padding: 40px 20px;
+    color: #333;
+}
+
+.container {
+    min-height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}

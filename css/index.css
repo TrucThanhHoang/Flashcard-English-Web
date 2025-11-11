@@ -26,6 +26,7 @@ body {
     font-weight: bold;
 }
 
+.navbar .logo a,
 .navbar nav a {
     color: white;
     text-decoration: none;
@@ -41,7 +42,8 @@ body {
 .hero {
     text-align: center;
     padding: 100px 20px;
-    background: linear-gradient(rgba(0,123,255,0.8), rgba(0,123,255,0.8)), url('img/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 123, 255, 0.8), rgba(0, 123, 255, 0.8)),
+        url('img/hero-bg.jpg') no-repeat center center/cover;
     color: white;
 }
 
@@ -105,7 +107,6 @@ body {
     gap: 20px;
 }
 
-
 /* Contact Section */
 .contact {
     padding: 60px 20px;
@@ -155,7 +156,6 @@ footer {
     padding: 20px;
 }
 
-
 .advantages {
     padding: 80px 50px;
     background-color: #e8f0fe;
@@ -187,7 +187,7 @@ footer {
 
 .adv-card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 .advantages {
     padding: 80px 50px;
@@ -228,19 +228,18 @@ footer {
 }
 
 .advantages-image img {
-    width: 70%;                  /* thu nhỏ ảnh lại còn 70% khung chứa */
-    max-width: 400px;            /* ảnh không vượt quá 400px */
+    width: 70%; /* thu nhỏ ảnh lại còn 70% khung chứa */
+    max-width: 400px; /* ảnh không vượt quá 400px */
     display: block;
-    margin: 0 auto;              /* căn giữa ảnh theo chiều ngang */
+    margin: 0 auto; /* căn giữa ảnh theo chiều ngang */
     border-radius: 15px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
 }
 
 .advantages-image img:hover {
-    transform: scale(1.03);      /* hiệu ứng phóng nhẹ khi hover */
+    transform: scale(1.03); /* hiệu ứng phóng nhẹ khi hover */
 }
-
 
 .flashcards {
     text-align: center;
@@ -268,7 +267,7 @@ footer {
 .card {
     background-color: #fff;
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     width: 250px;
     padding: 15px;
     text-align: left;
@@ -291,12 +290,16 @@ footer {
     margin-bottom: 10px;
 }
 
-.card .level.beginner {
-    background-color: #4caf50;
-}
-
-.card .level.intermediate {
+.card .level {
+    &.beginner {
+        background-color: #4caf50;
+    }
+    &.intermediate {
     background-color: #ff9800;
+    }
+    &.advanced {
+        background-color: #f44336;
+    }
 }
 
 .card h3 {
@@ -340,4 +343,47 @@ footer {
     padding: 10px 20px;
     border-radius: 8px;
     cursor: pointer;
+}
+
+main {
+    min-height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+button.button-primary {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+}
+
+.play-audio-button {
+    width: 40px;
+    height: 40px;
+    background-color: #e8f2ff;
+    color: #0c6ff9;
+    display: inline-flex;
+    flex-grow: 0;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+
+    svg {
+        width: 16px;
+        height: 16px;
+        stroke: blue;
+    }
+
+    &:hover svg {
+        stroke: #000;
+    }
 }
