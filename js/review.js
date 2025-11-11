@@ -17,15 +17,28 @@ const injectWordList = (setName) => {
             ${word.word}
             <span>(${word.type})</span>
             <span>/${word.pronunciation}/</span>
+            <button class="play-audio-button" >
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-volume2-icon lucide-volume-2"><path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/></svg>
+            </button>
           </h2>
+
+          <audio class="word-audio" hidden src="${word.audio}" ></audio>
+
           <h4>Định nghĩa:</h4>
           <p class="word-definition">${word.definition}</p>
           
           <h4>Ví dụ:</h4>
           <ul class="word-examples">
-            ${word.example.map((example) => `<li>${example}</li>`).join('')}
+            ${word.examples.map((example) => `<li>${example}</li>`).join('')}
           </ul>
       `;
+
+        wordCard
+          .querySelector('.play-audio-button')
+          .addEventListener('click', () => {
+            const audioElement = wordCard.querySelector('audio.word-audio');
+            audioElement.play();
+          });
         wordListContainer.appendChild(wordCard);
       });
     });
