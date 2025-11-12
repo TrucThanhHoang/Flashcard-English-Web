@@ -30,6 +30,7 @@ const injectFlashcards = (setName) => {
 
   const learningWordIndex =
     +localStorage.getItem(LEARNING_WORD_INDEX_PREFIX + setName) || 0;
+
   setupFlashcard(setName, learningWordList, learningWordIndex);
 };
 
@@ -102,18 +103,18 @@ const setupFlashcard = (setName, wordList, wordIndex) => {
 };
 
 const handleAnswer = (setName, wordList, wordIndex, answer) => {
-  const newWordList = [...wordList];
+  let newWordList = [...wordList];
   newWordList[wordIndex] = { ...newWordList[wordIndex], difficulty: answer };
 
-  if (answer === 'known') {
-    newWordList.splice(wordIndex, 1);
-  } else {
-    // For simplicity, we won't implement spaced repetition logic here.
-    // In a real application, you would adjust the word's review interval based on the answer.
-  }
+  let nextIndex = ++wordIndex % newWordList.length;
 
-  let nextIndex =
-    (++wordIndex - (answer === 'known' ? 1 : 0)) % newWordList.length;
+  if (nextIndex === 0 && newWordList.every((word) => word.difficulty)) {
+    // sort by difficulty, hardest first
+    newWordList = newWordList.sort((a, b) => {
+      const difficultyOrder = { known: 0, easy: 1, medium: 2, hard: 3 };
+      return difficultyOrder[b.difficulty] - difficultyOrder[a.difficulty];
+    });
+  }
 
   localStorage.setItem(
     LEARNING_WORD_LIST_PREFIX + setName,

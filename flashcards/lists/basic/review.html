@@ -27,7 +27,11 @@
 
       <a href="./learn.html"><button class="button-primary" style="width: 100%;">Learn</button></a>
 
-      <p id="word-list-count">List có {{count}} từ</p>
+      <div style="display: flex; justify-content: space-between;">
+        <p id="word-list-count">List có {{count}} từ</p>
+        <button id="clear-progress-btn" class="button-secondary">Clear Progress</button>
+      </div>
+
       <div class="word-list"></div>
     </main>
 

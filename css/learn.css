@@ -123,6 +123,11 @@
     &#hard-btn {
       color: #e43a45 !important;
     }
+
+    &:hover {
+      background-color: color(from currentColor srgb r g b / 0.1);
+      border-radius: 0.5rem;
+    }
   }
 }
 
