@@ -33,7 +33,7 @@
       "type": "noun",
       "pronunciation": "ˈziː.brə",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zeb/zebra/zebra__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "giraffe",
@@ -42,7 +42,7 @@
       "type": "noun",
       "pronunciation": "dʒəˈræf",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gir/giraffe/giraffe__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "monkey",
@@ -51,7 +51,7 @@
       "type": "noun",
       "pronunciation": "ˈmʌŋ.ki",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monke/monkey__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "bear",
@@ -60,7 +60,7 @@
       "type": "noun",
       "pronunciation": "ber",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "wolf",
@@ -69,7 +69,7 @@
       "type": "noun",
       "pronunciation": "wʊlf",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wol/wolf_/wolf__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "fox",
@@ -78,7 +78,7 @@
       "type": "noun",
       "pronunciation": "fɑːks",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fox/fox__/fox__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "deer",
@@ -87,7 +87,7 @@
       "type": "noun",
       "pronunciation": "dɪr",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dee/deer_/deer__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "rabbit",
@@ -96,7 +96,7 @@
       "type": "noun",
       "pronunciation": "ˈræb.ɪt",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rab/rabbi/rabbit__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "dog",
@@ -105,7 +105,7 @@
       "type": "noun",
       "pronunciation": "dɔːɡ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "cat",
@@ -114,7 +114,7 @@
       "type": "noun",
       "pronunciation": "kæt",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "cow",
@@ -123,7 +123,7 @@
       "type": "noun",
       "pronunciation": "kaʊ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cow/cow__/cow__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "sheep",
@@ -132,7 +132,7 @@
       "type": "noun",
       "pronunciation": "ʃiːp",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/sheep/sheep__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "horse",
@@ -141,7 +141,7 @@
       "type": "noun",
       "pronunciation": "hɔːrs",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "pig",
@@ -150,7 +150,7 @@
       "type": "noun",
       "pronunciation": "pɪɡ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pig/pig__/pig__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "duck",
@@ -159,7 +159,7 @@
       "type": "noun",
       "pronunciation": "dʌk",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/duc/duck_/duck__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "bird",
@@ -168,7 +168,7 @@
       "type": "noun",
       "pronunciation": "bɜːrd",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/bird_/bird__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "fish",
@@ -177,7 +177,7 @@
       "type": "noun",
       "pronunciation": "fɪʃ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "tree",
@@ -186,7 +186,7 @@
       "type": "noun",
       "pronunciation": "triː",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "flower",
@@ -195,7 +195,7 @@
       "type": "noun",
       "pronunciation": "ˈflaʊ.ɚ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "mountain",
@@ -204,7 +204,7 @@
       "type": "noun",
       "pronunciation": "ˈmaʊn.tən",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "river",
@@ -213,7 +213,7 @@
       "type": "noun",
       "pronunciation": "ˈrɪv.ɚ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "lake",
@@ -222,7 +222,7 @@
       "type": "noun",
       "pronunciation": "leɪk",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lak/lake_/lake__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "ocean",
@@ -231,7 +231,7 @@
       "type": "noun",
       "pronunciation": "ˈoʊ.ʃən",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oce/ocean/ocean__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "sea",
@@ -240,7 +240,7 @@
       "type": "noun",
       "pronunciation": "siː",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea__/sea__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "forest",
@@ -249,7 +249,7 @@
       "type": "noun",
       "pronunciation": "ˈfɔːr.ɪst",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/for/fores/forest__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "rain",
@@ -258,7 +258,7 @@
       "type": "noun",
       "pronunciation": "reɪn",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "cloud",
@@ -267,7 +267,7 @@
       "type": "noun",
       "pronunciation": "klaʊd",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "sun",
@@ -276,7 +276,7 @@
       "type": "noun",
       "pronunciation": "sʌn",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "moon",
@@ -285,7 +285,7 @@
       "type": "noun",
       "pronunciation": "muːn",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "star",
@@ -294,7 +294,7 @@
       "type": "noun",
       "pronunciation": "stɑːr",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "wind",
@@ -303,7 +303,7 @@
       "type": "noun",
       "pronunciation": "wɪnd",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "earth",
@@ -312,7 +312,7 @@
       "type": "noun",
       "pronunciation": "ɜːrθ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ear/earth/earth__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "volcano",
@@ -330,7 +330,7 @@
       "type": "noun",
       "pronunciation": "ˈdez.ɚt",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/des/deser/desert__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "island",
@@ -339,7 +339,7 @@
       "type": "noun",
       "pronunciation": "ˈaɪ.lənd",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/isl/islan/island__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "word": "rock",
@@ -348,7 +348,7 @@
       "type": "noun",
       "pronunciation": "rɑːk",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rock_/rock__us_1.mp3",
-      "difficulty": "easy"
+      "difficulty": "hard"
     },
     {
       "word": "rainbow",
@@ -357,7 +357,7 @@
       "type": "noun",
       "pronunciation": "ˈreɪn.boʊ",
       "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rainb/rainbow__us_1.mp3",
-      "difficulty": "medium"
+      "difficulty": "hard"
     }
   ]
   
