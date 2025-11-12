@@ -1,363 +1,322 @@
 [
-    {
-      "word": "lion",
-      "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwest India.",
-      "examples": ["The lion roared loudly across the savanna."],
-      "type": "noun",
-      "pronunciation": "ˈlaɪ.ən",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lio/lion_/lion__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "tiger",
-      "definition": "A large wild cat with a yellowish-orange coat and black stripes.",
-      "examples": ["The tiger moved silently through the jungle."],
-      "type": "noun",
-      "pronunciation": "ˈtaɪ.ɡɚ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tig/tiger/tiger__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "elephant",
-      "definition": "A very large mammal with a trunk, native to Africa and southern Asia.",
-      "examples": ["The elephant used its trunk to grab the fruit."],
-      "type": "noun",
-      "pronunciation": "ˈel.ə.fənt",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ele/eleph/elephant__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "zebra",
-      "definition": "An African wild horse with black-and-white stripes and an erect mane.",
-      "examples": ["A herd of zebras grazed peacefully near the waterhole."],
-      "type": "noun",
-      "pronunciation": "ˈziː.brə",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zeb/zebra/zebra__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "giraffe",
-      "definition": "A large African mammal with a very long neck and long legs.",
-      "examples": ["The giraffe reached up to eat leaves from the tall tree."],
-      "type": "noun",
-      "pronunciation": "dʒəˈræf",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gir/giraffe/giraffe__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "monkey",
-      "definition": "A small to medium-sized primate that typically has a long tail.",
-      "examples": ["The monkey swung from branch to branch."],
-      "type": "noun",
-      "pronunciation": "ˈmʌŋ.ki",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monke/monkey__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "bear",
-      "definition": "A large heavy mammal with thick fur and a very short tail.",
-      "examples": ["A brown bear was seen fishing by the river."],
-      "type": "noun",
-      "pronunciation": "ber",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "wolf",
-      "definition": "A wild carnivorous mammal that is the largest member of the dog family.",
-      "examples": ["A lone wolf howled at the full moon."],
-      "type": "noun",
-      "pronunciation": "wʊlf",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wol/wolf_/wolf__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "fox",
-      "definition": "A small to medium-sized carnivorous mammal with a pointed muzzle and bushy tail.",
-      "examples": ["The fox slipped quietly into the woods."],
-      "type": "noun",
-      "pronunciation": "fɑːks",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fox/fox__/fox__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "deer",
-      "definition": "A hoofed grazing animal with branching bony antlers that are shed annually.",
-      "examples": ["A deer crossed the forest path."],
-      "type": "noun",
-      "pronunciation": "dɪr",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dee/deer_/deer__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "rabbit",
-      "definition": "A small burrowing mammal with long ears and a short tail.",
-      "examples": ["The rabbit hopped across the field."],
-      "type": "noun",
-      "pronunciation": "ˈræb.ɪt",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rab/rabbi/rabbit__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "dog",
-      "definition": "A domesticated carnivorous mammal kept as a pet or for work.",
-      "examples": ["Her dog loves to chase balls in the park."],
-      "type": "noun",
-      "pronunciation": "dɔːɡ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "cat",
-      "definition": "A small domesticated carnivorous mammal with soft fur and retractable claws.",
-      "examples": ["The cat curled up by the fireplace."],
-      "type": "noun",
-      "pronunciation": "kæt",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "cow",
-      "definition": "A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
-      "examples": ["The cow grazed peacefully in the meadow."],
-      "type": "noun",
-      "pronunciation": "kaʊ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cow/cow__/cow__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "sheep",
-      "definition": "A domesticated ruminant animal with a thick woolly coat, raised for wool or meat.",
-      "examples": ["A flock of sheep wandered across the hill."],
-      "type": "noun",
-      "pronunciation": "ʃiːp",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/sheep/sheep__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "horse",
-      "definition": "A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail.",
-      "examples": ["She rode her horse along the beach."],
-      "type": "noun",
-      "pronunciation": "hɔːrs",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "pig",
-      "definition": "An omnivorous domesticated hoofed mammal kept for its meat.",
-      "examples": ["The farmer raised pigs and chickens."],
-      "type": "noun",
-      "pronunciation": "pɪɡ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pig/pig__/pig__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "duck",
-      "definition": "A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
-      "examples": ["The duck swam across the pond."],
-      "type": "noun",
-      "pronunciation": "dʌk",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/duc/duck_/duck__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "bird",
-      "definition": "A warm-blooded egg-laying vertebrate distinguished by feathers, wings, and a beak.",
-      "examples": ["A bird flew past the window."],
-      "type": "noun",
-      "pronunciation": "bɜːrd",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/bird_/bird__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "fish",
-      "definition": "A limbless cold-blooded vertebrate animal with gills and fins living in water.",
-      "examples": ["He caught a fish in the river."],
-      "type": "noun",
-      "pronunciation": "fɪʃ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "tree",
-      "definition": "A woody perennial plant, typically having a single stem or trunk and bearing branches and leaves.",
-      "examples": ["A tall tree grew in the middle of the field."],
-      "type": "noun",
-      "pronunciation": "triː",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "flower",
-      "definition": "The seed-bearing part of a plant, consisting of reproductive organs surrounded by colorful petals.",
-      "examples": ["A bee landed on a bright yellow flower."],
-      "type": "noun",
-      "pronunciation": "ˈflaʊ.ɚ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "mountain",
-      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
-      "examples": ["They climbed the snow-covered mountain."],
-      "type": "noun",
-      "pronunciation": "ˈmaʊn.tən",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "river",
-      "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
-      "examples": ["The river flows through the valley."],
-      "type": "noun",
-      "pronunciation": "ˈrɪv.ɚ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "lake",
-      "definition": "A large area of water surrounded by land.",
-      "examples": ["They swam across the calm lake."],
-      "type": "noun",
-      "pronunciation": "leɪk",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lak/lake_/lake__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "ocean",
-      "definition": "A very large expanse of sea, in particular each of the main areas into which the sea is divided.",
-      "examples": ["The Pacific Ocean is the largest ocean on Earth."],
-      "type": "noun",
-      "pronunciation": "ˈoʊ.ʃən",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oce/ocean/ocean__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "sea",
-      "definition": "The expanse of salt water that covers most of the earth's surface.",
-      "examples": ["The sea was calm and blue that morning."],
-      "type": "noun",
-      "pronunciation": "siː",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea__/sea__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "forest",
-      "definition": "A large area covered chiefly with trees and undergrowth.",
-      "examples": ["The forest was full of birds and wild animals."],
-      "type": "noun",
-      "pronunciation": "ˈfɔːr.ɪst",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/for/fores/forest__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "rain",
-      "definition": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
-      "examples": ["The rain poured down all afternoon."],
-      "type": "noun",
-      "pronunciation": "reɪn",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "cloud",
-      "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
-      "examples": ["Dark clouds gathered before the storm."],
-      "type": "noun",
-      "pronunciation": "klaʊd",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "sun",
-      "definition": "The star around which the earth orbits.",
-      "examples": ["The sun sets in the west."],
-      "type": "noun",
-      "pronunciation": "sʌn",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "moon",
-      "definition": "The natural satellite of the earth, visible at night by reflected light from the sun.",
-      "examples": ["The full moon shone brightly in the sky."],
-      "type": "noun",
-      "pronunciation": "muːn",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "star",
-      "definition": "A fixed luminous point in the night sky that is a large, remote incandescent body like the sun.",
-      "examples": ["The night sky was full of shining stars."],
-      "type": "noun",
-      "pronunciation": "stɑːr",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "wind",
-      "definition": "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
-      "examples": ["The wind blew strongly through the valley."],
-      "type": "noun",
-      "pronunciation": "wɪnd",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "earth",
-      "definition": "The planet on which we live; the world.",
-      "examples": ["The Earth revolves around the Sun."],
-      "type": "noun",
-      "pronunciation": "ɜːrθ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ear/earth/earth__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "volcano",
-      "definition": "A mountain or hill with a crater or vent through which lava, rock fragments, and gases are expelled.",
-      "examples": ["The volcano erupted with a loud explosion."],
-      "type": "noun",
-      "pronunciation": "vɑːlˈkeɪ.noʊ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volca/volcano__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "desert",
-      "definition": "A barren area of landscape with little precipitation and sparse vegetation.",
-      "examples": ["Camels are well adapted to living in the desert."],
-      "type": "noun",
-      "pronunciation": "ˈdez.ɚt",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/des/deser/desert__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "island",
-      "definition": "A piece of land surrounded by water.",
-      "examples": ["They spent their vacation on a tropical island."],
-      "type": "noun",
-      "pronunciation": "ˈaɪ.lənd",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/isl/islan/island__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "rock",
-      "definition": "The solid mineral material forming part of the surface of the earth.",
-      "examples": ["They climbed over sharp rocks near the sea."],
-      "type": "noun",
-      "pronunciation": "rɑːk",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rock_/rock__us_1.mp3",
-      "difficulty": "hard"
-    },
-    {
-      "word": "rainbow",
-      "definition": "An arch of colors formed in the sky by the refraction and dispersion of the sun's light by rain.",
-      "examples": ["A beautiful rainbow appeared after the storm."],
-      "type": "noun",
-      "pronunciation": "ˈreɪn.boʊ",
-      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rainb/rainbow__us_1.mp3",
-      "difficulty": "hard"
-    }
-  ]
-  
+  {
+    "word": "lion",
+    "definition": "A large tawny-colored cat that lives in prides, found in Africa and northwest India.",
+    "examples": ["The lion roared loudly across the savanna."],
+    "type": "noun",
+    "pronunciation": "ˈlaɪ.ən",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lio/lion_/lion__us_1.mp3"
+  },
+  {
+    "word": "tiger",
+    "definition": "A large wild cat with a yellowish-orange coat and black stripes.",
+    "examples": ["The tiger moved silently through the jungle."],
+    "type": "noun",
+    "pronunciation": "ˈtaɪ.ɡɚ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tig/tiger/tiger__us_1.mp3"
+  },
+  {
+    "word": "elephant",
+    "definition": "A very large mammal with a trunk, native to Africa and southern Asia.",
+    "examples": ["The elephant used its trunk to grab the fruit."],
+    "type": "noun",
+    "pronunciation": "ˈel.ə.fənt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ele/eleph/elephant__us_1.mp3"
+  },
+  {
+    "word": "zebra",
+    "definition": "An African wild horse with black-and-white stripes and an erect mane.",
+    "examples": ["A herd of zebras grazed peacefully near the waterhole."],
+    "type": "noun",
+    "pronunciation": "ˈziː.brə",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/z/zeb/zebra/zebra__us_1.mp3"
+  },
+  {
+    "word": "giraffe",
+    "definition": "A large African mammal with a very long neck and long legs.",
+    "examples": ["The giraffe reached up to eat leaves from the tall tree."],
+    "type": "noun",
+    "pronunciation": "dʒəˈræf",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gir/giraf/giraffe__us_1.mp3"
+  },
+  {
+    "word": "monkey",
+    "definition": "A small to medium-sized primate that typically has a long tail.",
+    "examples": ["The monkey swung from branch to branch."],
+    "type": "noun",
+    "pronunciation": "ˈmʌŋ.ki",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monke/monkey__us_1.mp3"
+  },
+  {
+    "word": "bear",
+    "definition": "A large heavy mammal with thick fur and a very short tail.",
+    "examples": ["A brown bear was seen fishing by the river."],
+    "type": "noun",
+    "pronunciation": "ber",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bea/bear_/bear__us_1.mp3"
+  },
+  {
+    "word": "wolf",
+    "definition": "A wild carnivorous mammal that is the largest member of the dog family.",
+    "examples": ["A lone wolf howled at the full moon."],
+    "type": "noun",
+    "pronunciation": "wʊlf",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wol/wolf_/wolf__us_1.mp3"
+  },
+  {
+    "word": "fox",
+    "definition": "A small to medium-sized carnivorous mammal with a pointed muzzle and bushy tail.",
+    "examples": ["The fox slipped quietly into the woods."],
+    "type": "noun",
+    "pronunciation": "fɑːks",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fox/fox__/fox__us_1.mp3"
+  },
+  {
+    "word": "deer",
+    "definition": "A hoofed grazing animal with branching bony antlers that are shed annually.",
+    "examples": ["A deer crossed the forest path."],
+    "type": "noun",
+    "pronunciation": "dɪr",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dee/deer_/deer__us_1.mp3"
+  },
+  {
+    "word": "rabbit",
+    "definition": "A small burrowing mammal with long ears and a short tail.",
+    "examples": ["The rabbit hopped across the field."],
+    "type": "noun",
+    "pronunciation": "ˈræb.ɪt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rab/rabbi/rabbit__us_1.mp3"
+  },
+  {
+    "word": "dog",
+    "definition": "A domesticated carnivorous mammal kept as a pet or for work.",
+    "examples": ["Her dog loves to chase balls in the park."],
+    "type": "noun",
+    "pronunciation": "dɔːɡ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3"
+  },
+  {
+    "word": "cat",
+    "definition": "A small domesticated carnivorous mammal with soft fur and retractable claws.",
+    "examples": ["The cat curled up by the fireplace."],
+    "type": "noun",
+    "pronunciation": "kæt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3"
+  },
+  {
+    "word": "cow",
+    "definition": "A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.",
+    "examples": ["The cow grazed peacefully in the meadow."],
+    "type": "noun",
+    "pronunciation": "kaʊ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cow/cow__/cow__us_1.mp3"
+  },
+  {
+    "word": "sheep",
+    "definition": "A domesticated ruminant animal with a thick woolly coat, raised for wool or meat.",
+    "examples": ["A flock of sheep wandered across the hill."],
+    "type": "noun",
+    "pronunciation": "ʃiːp",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/she/sheep/sheep__us_1.mp3"
+  },
+  {
+    "word": "horse",
+    "definition": "A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail.",
+    "examples": ["She rode her horse along the beach."],
+    "type": "noun",
+    "pronunciation": "hɔːrs",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hor/horse/horse__us_1.mp3"
+  },
+  {
+    "word": "pig",
+    "definition": "An omnivorous domesticated hoofed mammal kept for its meat.",
+    "examples": ["The farmer raised pigs and chickens."],
+    "type": "noun",
+    "pronunciation": "pɪɡ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pig/pig__/pig__us_1.mp3"
+  },
+  {
+    "word": "duck",
+    "definition": "A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
+    "examples": ["The duck swam across the pond."],
+    "type": "noun",
+    "pronunciation": "dʌk",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/duc/duck_/duck__us_1.mp3"
+  },
+  {
+    "word": "bird",
+    "definition": "A warm-blooded egg-laying vertebrate distinguished by feathers, wings, and a beak.",
+    "examples": ["A bird flew past the window."],
+    "type": "noun",
+    "pronunciation": "bɜːrd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bir/bird_/bird__us_1.mp3"
+  },
+  {
+    "word": "fish",
+    "definition": "A limbless cold-blooded vertebrate animal with gills and fins living in water.",
+    "examples": ["He caught a fish in the river."],
+    "type": "noun",
+    "pronunciation": "fɪʃ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3"
+  },
+  {
+    "word": "tree",
+    "definition": "A woody perennial plant, typically having a single stem or trunk and bearing branches and leaves.",
+    "examples": ["A tall tree grew in the middle of the field."],
+    "type": "noun",
+    "pronunciation": "triː",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3"
+  },
+  {
+    "word": "flower",
+    "definition": "The seed-bearing part of a plant, consisting of reproductive organs surrounded by colorful petals.",
+    "examples": ["A bee landed on a bright yellow flower."],
+    "type": "noun",
+    "pronunciation": "ˈflaʊ.ɚ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3"
+  },
+  {
+    "word": "mountain",
+    "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+    "examples": ["They climbed the snow-covered mountain."],
+    "type": "noun",
+    "pronunciation": "ˈmaʊn.tən",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3"
+  },
+  {
+    "word": "river",
+    "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+    "examples": ["The river flows through the valley."],
+    "type": "noun",
+    "pronunciation": "ˈrɪv.ɚ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3"
+  },
+  {
+    "word": "lake",
+    "definition": "A large area of water surrounded by land.",
+    "examples": ["They swam across the calm lake."],
+    "type": "noun",
+    "pronunciation": "leɪk",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lak/lake_/lake__us_1.mp3"
+  },
+  {
+    "word": "ocean",
+    "definition": "A very large expanse of sea, in particular each of the main areas into which the sea is divided.",
+    "examples": ["The Pacific Ocean is the largest ocean on Earth."],
+    "type": "noun",
+    "pronunciation": "ˈoʊ.ʃən",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oce/ocean/ocean__us_1.mp3"
+  },
+  {
+    "word": "sea",
+    "definition": "The expanse of salt water that covers most of the earth's surface.",
+    "examples": ["The sea was calm and blue that morning."],
+    "type": "noun",
+    "pronunciation": "siː",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/sea__/sea__us_1.mp3"
+  },
+  {
+    "word": "forest",
+    "definition": "A large area covered chiefly with trees and undergrowth.",
+    "examples": ["The forest was full of birds and wild animals."],
+    "type": "noun",
+    "pronunciation": "ˈfɔːr.ɪst",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/for/fores/forest__us_1.mp3"
+  },
+  {
+    "word": "rain",
+    "definition": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+    "examples": ["The rain poured down all afternoon."],
+    "type": "noun",
+    "pronunciation": "reɪn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3"
+  },
+  {
+    "word": "cloud",
+    "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
+    "examples": ["Dark clouds gathered before the storm."],
+    "type": "noun",
+    "pronunciation": "klaʊd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3"
+  },
+  {
+    "word": "sun",
+    "definition": "The star around which the earth orbits.",
+    "examples": ["The sun sets in the west."],
+    "type": "noun",
+    "pronunciation": "sʌn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3"
+  },
+  {
+    "word": "moon",
+    "definition": "The natural satellite of the earth, visible at night by reflected light from the sun.",
+    "examples": ["The full moon shone brightly in the sky."],
+    "type": "noun",
+    "pronunciation": "muːn",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3"
+  },
+  {
+    "word": "star",
+    "definition": "A fixed luminous point in the night sky that is a large, remote incandescent body like the sun.",
+    "examples": ["The night sky was full of shining stars."],
+    "type": "noun",
+    "pronunciation": "stɑːr",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3"
+  },
+  {
+    "word": "wind",
+    "definition": "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
+    "examples": ["The wind blew strongly through the valley."],
+    "type": "noun",
+    "pronunciation": "wɪnd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3"
+  },
+  {
+    "word": "earth",
+    "definition": "The planet on which we live; the world.",
+    "examples": ["The Earth revolves around the Sun."],
+    "type": "noun",
+    "pronunciation": "ɜːrθ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ear/earth/earth__us_1.mp3"
+  },
+  {
+    "word": "volcano",
+    "definition": "A mountain or hill with a crater or vent through which lava, rock fragments, and gases are expelled.",
+    "examples": ["The volcano erupted with a loud explosion."],
+    "type": "noun",
+    "pronunciation": "vɑːlˈkeɪ.noʊ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vol/volca/volcano__us_1.mp3"
+  },
+  {
+    "word": "desert",
+    "definition": "A barren area of landscape with little precipitation and sparse vegetation.",
+    "examples": ["Camels are well adapted to living in the desert."],
+    "type": "noun",
+    "pronunciation": "ˈdez.ɚt",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/des/deser/desert__us_1.mp3"
+  },
+  {
+    "word": "island",
+    "definition": "A piece of land surrounded by water.",
+    "examples": ["They spent their vacation on a tropical island."],
+    "type": "noun",
+    "pronunciation": "ˈaɪ.lənd",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/isl/islan/island__us_1.mp3"
+  },
+  {
+    "word": "rock",
+    "definition": "The solid mineral material forming part of the surface of the earth.",
+    "examples": ["They climbed over sharp rocks near the sea."],
+    "type": "noun",
+    "pronunciation": "rɑːk",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/roc/rock_/rock__us_1.mp3"
+  },
+  {
+    "word": "rainbow",
+    "definition": "An arch of colors formed in the sky by the refraction and dispersion of the sun's light by rain.",
+    "examples": ["A beautiful rainbow appeared after the storm."],
+    "type": "noun",
+    "pronunciation": "ˈreɪn.boʊ",
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rainb/rainbow__us_1.mp3"
+  }
+]
