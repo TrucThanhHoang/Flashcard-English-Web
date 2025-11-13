@@ -29,7 +29,7 @@ cd Flashcard-English-Web
 ```
 
 ### 3. There are 2 ways to run the project (Live-server, Docker)
-
+#### Run with Live Server
 1. Open the project folder in **Visual Studio Code**  
 2. Press:
 
@@ -41,6 +41,19 @@ Ctrl + Shift + P
 Live Server: Open with Live Server
 ```
 4. The project will be available at:  
-👉 [http://localhost:5500](http://localhost:5500)
+ [http://localhost:5500](http://localhost:5500)
 
-    
+#### Run with Docker
+
+1. Make sure **Docker Desktop** is running  
+2. Build the Docker image:
+```
+docker build -t flashcards-web .
+```
+3. Run the container:
+```
+docker run -d -p 5500:5500 --name flashcards-web-container flashcards-web
+```
+
+4. The project will be available at:  
+ [http://localhost:5500](http://localhost:5500)
