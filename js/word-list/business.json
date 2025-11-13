@@ -1,0 +1,562 @@
+[
+    {
+      "word": "acquisition",
+      "definition": "The act of buying or gaining control of another company or business.",
+      "examples": ["The company completed the acquisition of its main competitor."],
+      "type": "noun",
+      "pronunciation": "ˌækwɪˈzɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acq/acqui/acquisition__us_1.mp3"
+    },
+    {
+      "word": "leverage",
+      "definition": "To use something that you already have in order to achieve something new or better.",
+      "examples": ["The firm leveraged its brand to enter new markets."],
+      "type": "verb",
+      "pronunciation": "ˈlevərɪdʒ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lev/lever/leverage__us_1.mp3"
+    },
+    {
+      "word": "synergy",
+      "definition": "The combined power of two or more organizations working together that is greater than the sum of their separate effects.",
+      "examples": ["Merging with TechCo will create strong synergy in innovation."],
+      "type": "noun",
+      "pronunciation": "ˈsɪnərdʒi",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/syn/syner/synergy__us_1.mp3"
+    },
+    {
+      "word": "benchmark",
+      "definition": "A standard or point of reference against which things may be compared or assessed.",
+      "examples": ["We use industry benchmarks to measure our performance."],
+      "type": "noun",
+      "pronunciation": "ˈbentʃmɑːrk",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bench/benchmark__us_1.mp3"
+    },
+    {
+      "word": "paradigm",
+      "definition": "A typical example or pattern of something; a model.",
+      "examples": ["The digital paradigm has transformed modern business operations."],
+      "type": "noun",
+      "pronunciation": "ˈpærədaɪm",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/par/parad/paradigm__us_1.mp3"
+    },
+    {
+      "word": "disruptive",
+      "definition": "Causing radical change in an industry or market by introducing a new product or service.",
+      "examples": ["Their disruptive technology reshaped the financial industry."],
+      "type": "adjective",
+      "pronunciation": "dɪsˈrʌptɪv",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disru/disruptive__us_1.mp3"
+    },
+    {
+      "word": "scalable",
+      "definition": "Able to grow or be expanded easily when demand increases.",
+      "examples": ["We need a scalable solution to handle future growth."],
+      "type": "adjective",
+      "pronunciation": "ˈskeɪləbl",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sca/scala/scalable__us_1.mp3"
+    },
+    {
+      "word": "stakeholder",
+      "definition": "A person or group with an interest or concern in a business or project.",
+      "examples": ["We must consider all stakeholders in our decision-making."],
+      "type": "noun",
+      "pronunciation": "ˈsteɪkhoʊldər",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stake/stakeholder__us_1.mp3"
+    },
+    {
+      "word": "turnaround",
+      "definition": "A complete change from bad to good performance in a company or situation.",
+      "examples": ["The new CEO achieved a remarkable turnaround in profits."],
+      "type": "noun",
+      "pronunciation": "ˈtɜːrnəraʊnd",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tur/turna/turnaround__us_1.mp3"
+    },
+    {
+      "word": "bottom line",
+      "definition": "The final total of an account or the most important point.",
+      "examples": ["We must focus on how this decision affects our bottom line."],
+      "type": "noun",
+      "pronunciation": "ˈbɑːtəm laɪn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bot/botto/bottom_line__us_1.mp3"
+    },
+    {
+      "word": "compliance",
+      "definition": "The act of obeying an order, rule, or request, especially in business or law.",
+      "examples": ["All companies must ensure compliance with the new regulations."],
+      "type": "noun",
+      "pronunciation": "kəmˈplaɪəns",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/compliance__us_1.mp3"
+    },
+    {
+      "word": "outsourcing",
+      "definition": "The practice of using another company to do work that your company normally does.",
+      "examples": ["They are outsourcing their customer support to reduce costs."],
+      "type": "noun",
+      "pronunciation": "ˈaʊtsɔːrsɪŋ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/out/outso/outsourcing__us_1.mp3"
+    },
+    {
+      "word": "liability",
+      "definition": "The state of being legally responsible for something, especially debts.",
+      "examples": ["The company’s liabilities exceeded its assets."],
+      "type": "noun",
+      "pronunciation": "ˌlaɪəˈbɪləti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lia/liabi/liability__us_1.mp3"
+    },
+    {
+      "word": "asset",
+      "definition": "Something valuable that a person or company owns, which can be used to pay debts or earn money.",
+      "examples": ["The firm’s real estate holdings are its main assets."],
+      "type": "noun",
+      "pronunciation": "ˈæset",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asset/asset__us_1.mp3"
+    },
+    {
+      "word": "mitigate",
+      "definition": "To make something less harmful, serious, or painful.",
+      "examples": ["We need to mitigate the risks before launching the product."],
+      "type": "verb",
+      "pronunciation": "ˈmɪtɪɡeɪt",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mit/mitig/mitigate__us_1.mp3"
+    },
+    {
+      "word": "viability",
+      "definition": "The ability of something to work successfully or to survive.",
+      "examples": ["They are testing the market viability of their new app."],
+      "type": "noun",
+      "pronunciation": "ˌvaɪəˈbɪləti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/viabi/viability__us_1.mp3"
+    },
+    {
+      "word": "monetize",
+      "definition": "To earn money from something, especially a business activity or website.",
+      "examples": ["They plan to monetize the platform through subscriptions."],
+      "type": "verb",
+      "pronunciation": "ˈmʌnɪtaɪz",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/monet/monetize__us_1.mp3"
+    },
+    {
+      "word": "arbitrage",
+      "definition": "The practice of taking advantage of a price difference between two or more markets.",
+      "examples": ["Currency traders make profits through arbitrage."],
+      "type": "noun",
+      "pronunciation": "ˈɑːrbɪtrɑːʒ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arb/arbit/arbitrage__us_1.mp3"
+    },
+    {
+      "word": "fiscal",
+      "definition": "Relating to money, taxes, or public finances.",
+      "examples": ["The government announced new fiscal policies."],
+      "type": "adjective",
+      "pronunciation": "ˈfɪskl",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fisca/fiscal__us_1.mp3"
+    },
+    {
+      "word": "synergy",
+      "definition": "The combined power of two organizations working together.",
+      "examples": ["There is clear synergy between our services and theirs."],
+      "type": "noun",
+      "pronunciation": "ˈsɪnərdʒi",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/syn/syner/synergy__us_1.mp3"
+    },
+    {
+      "word": "benchmarking",
+      "definition": "The process of comparing your business performance with that of others in the same industry.",
+      "examples": ["Benchmarking helps identify best practices across competitors."],
+      "type": "noun",
+      "pronunciation": "ˈbentʃmɑːrkɪŋ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ben/bench/benchmarking__us_1.mp3"
+    },
+    {
+      "word": "liquidity",
+      "definition": "The availability of liquid assets to a company or market.",
+      "examples": ["The firm faced a liquidity crisis during the recession."],
+      "type": "noun",
+      "pronunciation": "lɪˈkwɪdəti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/liq/liqui/liquidity__us_1.mp3"
+    },
+    {
+      "word": "proactive",
+      "definition": "Acting before a situation becomes a problem.",
+      "examples": ["Managers should be proactive in addressing employee concerns."],
+      "type": "adjective",
+      "pronunciation": "proʊˈæktɪv",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/proac/proactive__us_1.mp3"
+    },
+    {
+      "word": "holistic",
+      "definition": "Considering the whole of something rather than just individual parts.",
+      "examples": ["We take a holistic approach to business strategy."],
+      "type": "adjective",
+      "pronunciation": "hoʊˈlɪstɪk",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hol/holis/holistic__us_1.mp3"
+    },
+    {
+      "word": "catalyst",
+      "definition": "Something that causes or speeds up a major change or action.",
+      "examples": ["The merger was a catalyst for the company’s global growth."],
+      "type": "noun",
+      "pronunciation": "ˈkætəlɪst",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/catal/catalyst__us_1.mp3"
+    },
+    {
+      "word": "portfolio",
+      "definition": "A collection of investments, projects, or products owned by a person or company.",
+      "examples": ["They diversified their investment portfolio to reduce risk."],
+      "type": "noun",
+      "pronunciation": "pɔːrtˈfoʊlioʊ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/portf/portfolio__us_1.mp3"
+    },
+    {
+      "word": "diversification",
+      "definition": "The act of increasing variety to reduce risk or dependence on one source.",
+      "examples": ["Product diversification helped the company stay profitable."],
+      "type": "noun",
+      "pronunciation": "daɪˌvɜːrsɪfɪˈkeɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/div/diver/diversification__us_1.mp3"
+    },
+    {
+      "word": "downsizing",
+      "definition": "Reducing the number of employees to cut costs.",
+      "examples": ["The company announced a major downsizing to stay competitive."],
+      "type": "noun",
+      "pronunciation": "ˈdaʊnsaɪzɪŋ",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dow/downs/downsizing__us_1.mp3"
+    },
+    {
+      "word": "negotiation",
+      "definition": "Formal discussions aimed at reaching an agreement.",
+      "examples": ["Successful negotiation requires patience and clear communication."],
+      "type": "noun",
+      "pronunciation": "nɪˌɡoʊʃiˈeɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/nego_/negotiation__us_1.mp3"
+    },
+    {
+      "word": "stake",
+      "definition": "A share or financial involvement in a business or project.",
+      "examples": ["He bought a 15% stake in the company."],
+      "type": "noun",
+      "pronunciation": "steɪk",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/stake/stake__us_1.mp3"
+    },
+    {
+      "word": "forecast",
+      "definition": "A prediction or estimate of future events, especially in business or economics.",
+      "examples": ["The company raised its profit forecast for next year."],
+      "type": "noun",
+      "pronunciation": "ˈfɔːrkæst",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/for/forec/forecast__us_1.mp3"
+    },
+    {
+      "word": "margin",
+      "definition": "The difference between the cost of producing something and the price it is sold for.",
+      "examples": ["They aim to improve profit margins by reducing waste."],
+      "type": "noun",
+      "pronunciation": "ˈmɑːrdʒɪn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/margi/margin__us_1.mp3"
+    },
+    {
+      "word": "equity",
+      "definition": "The value of shares issued by a company; ownership interest.",
+      "examples": ["He increased his equity in the startup."],
+      "type": "noun",
+      "pronunciation": "ˈekwəti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/equ/equit/equity__us_1.mp3"
+    },
+    {
+      "word": "valuation",
+      "definition": "An estimate of how much something is worth, especially a company.",
+      "examples": ["The startup’s valuation doubled after the latest funding round."],
+      "type": "noun",
+      "pronunciation": "ˌvæljuˈeɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/val/valua/valuation__us_1.mp3"
+    },
+    {
+      "word": "collateral",
+      "definition": "Property or assets used as security for a loan.",
+      "examples": ["They used their building as collateral for the loan."],
+      "type": "noun",
+      "pronunciation": "kəˈlætərəl",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/col/colla/collateral__us_1.mp3"
+    },
+    {
+      "word": "entrepreneur",
+      "definition": "A person who starts or manages a business, taking on financial risks.",
+      "examples": ["She is a successful tech entrepreneur."],
+      "type": "noun",
+      "pronunciation": "ˌɑːntrəprəˈnɜːr",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ent/entre/entrepreneur__us_1.mp3"
+    },
+    {
+      "word": "sustainability",
+      "definition": "The ability to continue over a long period without harming the environment or society.",
+      "examples": ["The company is committed to environmental sustainability."],
+      "type": "noun",
+      "pronunciation": "səˌsteɪnəˈbɪləti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sus/susta/sustainability__us_1.mp3"
+    },
+    {
+      "word": "liquidate",
+      "definition": "To close a business and sell its assets to pay debts.",
+      "examples": ["The firm was forced to liquidate due to bankruptcy."],
+      "type": "verb",
+      "pronunciation": "ˈlɪkwɪdeɪt",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/liq/liqui/liquidate__us_1.mp3"
+    },
+    {
+      "word": "complementary",
+      "definition": "Combining in a way that enhances or emphasizes the qualities of each other.",
+      "examples": ["Our products are complementary to theirs."],
+      "type": "adjective",
+      "pronunciation": "ˌkɑːmplɪˈmentri",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/complementary__us_1.mp3"
+    },
+    {
+      "word": "alignment",
+      "definition": "The arrangement of things in a straight line or proper position; agreement between goals or actions.",
+      "examples": ["We need alignment between the marketing and sales teams."],
+      "type": "noun",
+      "pronunciation": "əˈlaɪnmənt",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ali/align/alignment__us_1.mp3"
+    },
+    {
+      "word": "innovation",
+      "definition": "The introduction of new ideas, products, or methods.",
+      "examples": ["Innovation drives the company’s long-term success."],
+      "type": "noun",
+      "pronunciation": "ˌɪnəˈveɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inn/innov/innovation__us_1.mp3"
+    },
+    {
+      "word": "scalability",
+      "definition": "The ability of a business or system to grow and manage increased demand.",
+      "examples": ["We’re improving scalability before launching globally."],
+      "type": "noun",
+      "pronunciation": "ˌskeɪləˈbɪləti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sca/scala/scalability__us_1.mp3"
+    },
+    {
+      "word": "viable",
+      "definition": "Able to work successfully; feasible.",
+      "examples": ["We must find a viable business model before scaling up."],
+      "type": "adjective",
+      "pronunciation": "ˈvaɪəbl",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/via/viabl/viable__us_1.mp3"
+    },
+    {
+      "word": "comprehensive",
+      "definition": "Including all or nearly all elements or aspects of something.",
+      "examples": ["The CEO presented a comprehensive growth strategy."],
+      "type": "adjective",
+      "pronunciation": "ˌkɑːmprɪˈhensɪv",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compr/comprehensive__us_1.mp3"
+    },
+    {
+      "word": "empowerment",
+      "definition": "The process of giving people more control or confidence in their work.",
+      "examples": ["Employee empowerment improves motivation and creativity."],
+      "type": "noun",
+      "pronunciation": "ɪmˈpaʊərmənt",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/emp/empow/empowerment__us_1.mp3"
+    },
+    {
+      "word": "transparency",
+      "definition": "The quality of being open and honest about company policies and decisions.",
+      "examples": ["Transparency builds trust between management and employees."],
+      "type": "noun",
+      "pronunciation": "trænsˈpærənsi",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/trans/transparency__us_1.mp3"
+    },
+    {
+      "word": "accountability",
+      "definition": "Being responsible for your actions and able to explain them.",
+      "examples": ["Managers must show accountability for their team’s results."],
+      "type": "noun",
+      "pronunciation": "əˌkaʊntəˈbɪləti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accou/accountability__us_1.mp3"
+    },
+    {
+      "word": "optimization",
+      "definition": "The process of making something as good or effective as possible.",
+      "examples": ["We are working on optimization of supply chain logistics."],
+      "type": "noun",
+      "pronunciation": "ˌɑːptɪməˈzeɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/opt/optim/optimization__us_1.mp3"
+    },
+    {
+      "word": "delegation",
+      "definition": "The act of giving someone authority or responsibility to do something.",
+      "examples": ["Effective delegation increases team efficiency."],
+      "type": "noun",
+      "pronunciation": "ˌdelɪˈɡeɪʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/del/deleg/delegation__us_1.mp3"
+    },
+    {
+      "word": "compliance",
+      "definition": "Obeying rules or requests, especially laws and regulations.",
+      "examples": ["Compliance with safety standards is mandatory."],
+      "type": "noun",
+      "pronunciation": "kəmˈplaɪəns",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compl/compliance__us_1.mp3"
+    },
+    {
+      "word": "initiative",
+      "definition": "A new plan or process to achieve something or solve a problem.",
+      "examples": ["The sustainability initiative reduced waste by 30%."],
+      "type": "noun",
+      "pronunciation": "ɪˈnɪʃətɪv",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ini/init_/initiative__us_1.mp3"
+    },
+    {
+      "word": "negotiator",
+      "definition": "A person who conducts discussions to reach an agreement.",
+      "examples": ["She’s an experienced negotiator in international trade deals."],
+      "type": "noun",
+      "pronunciation": "nɪˈɡoʊʃieɪtər",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/neg/negotiator__us_1.mp3"
+    },
+    {
+      "word": "resilience",
+      "definition": "The ability to recover quickly from difficulties or setbacks.",
+      "examples": ["Business resilience is essential during economic downturns."],
+      "type": "noun",
+      "pronunciation": "rɪˈzɪliəns",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resil/resilience__us_1.mp3"
+    },
+    {
+      "word": "retention",
+      "definition": "The ability to keep employees or customers over time.",
+      "examples": ["The company focuses on employee retention strategies."],
+      "type": "noun",
+      "pronunciation": "rɪˈtenʃn",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ret/retention__us_1.mp3"
+    },
+    {
+      "word": "merger",
+      "definition": "The joining of two or more companies into one.",
+      "examples": ["The merger created one of the world’s largest energy firms."],
+      "type": "noun",
+      "pronunciation": "ˈmɜːrdʒər",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mer/merge/merger__us_1.mp3"
+    },
+    {
+      "word": "productivity",
+      "definition": "The rate at which goods or services are produced.",
+      "examples": ["The new software improved overall productivity by 25%."],
+      "type": "noun",
+      "pronunciation": "ˌproʊdʌkˈtɪvəti",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prod_/productivity__us_1.mp3"
+    },
+    {
+      "word": "revenue",
+      "definition": "The total amount of money received by a company for goods or services.",
+      "examples": ["Revenue grew by 15% compared to last quarter."],
+      "type": "noun",
+      "pronunciation": "ˈrevənuː",
+      "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rev/reven/revenue__us_1.mp3"
+    },
+    {
+        "word": "equity",
+        "definition": "The value of a company’s shares; the value of ownership interest in a business.",
+        "examples": ["The firm raised $5 million in private equity funding."],
+        "type": "noun",
+        "pronunciation": "ˈekwəti",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/equ/equit/equity__us_1.mp3"
+    },
+    {
+        "word": "liquidate",
+        "definition": "To close a business and sell its assets to pay debts.",
+        "examples": ["The company was forced to liquidate after years of losses."],
+        "type": "verb",
+        "pronunciation": "ˈlɪkwɪdeɪt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/liq/liqui/liquidate__us_1.mp3"
+    },
+    {
+        "word": "portfolio",
+        "definition": "A range of investments or products owned by a person or organization.",
+        "examples": ["She manages an investment portfolio worth millions."],
+        "type": "noun",
+        "pronunciation": "pɔːrtˈfoʊlioʊ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/portf/portfolio__us_1.mp3"
+    },
+    {
+        "word": "diversification",
+        "definition": "The process of varying investments or business activities to reduce risk.",
+        "examples": ["Product diversification helped the company survive the crisis."],
+        "type": "noun",
+        "pronunciation": "daɪˌvɜːrsɪfɪˈkeɪʃn",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/div/diver/diversification__us_1.mp3"
+    },
+    {
+        "word": "hedging",
+        "definition": "A strategy to protect against financial loss by taking an offsetting position.",
+        "examples": ["The company uses hedging to limit exposure to currency fluctuations."],
+        "type": "noun",
+        "pronunciation": "ˈhedʒɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hed/hedgi/hedging__us_1.mp3"
+    },
+    {
+        "word": "due diligence",
+        "definition": "The process of carefully investigating a business or person before signing a contract.",
+        "examples": ["Investors must perform due diligence before buying shares."],
+        "type": "noun",
+        "pronunciation": "ˌduː ˈdɪlɪdʒəns",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/due/due_d/due_diligence__us_1.mp3"
+    },
+    {
+        "word": "tangible",
+        "definition": "Something that can be touched or measured; real or concrete.",
+        "examples": ["The company’s tangible assets include buildings and equipment."],
+        "type": "adjective",
+        "pronunciation": "ˈtændʒəbl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tan/tangi/tangible__us_1.mp3"
+    },
+    {
+        "word": "franchise",
+        "definition": "A business that is authorized to sell or distribute goods or services under another company’s name.",
+        "examples": ["He owns several fast-food franchises across the city."],
+        "type": "noun",
+        "pronunciation": "ˈfræntʃaɪz",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fra/franc/franchise__us_1.mp3"
+    },
+    {
+        "word": "restructuring",
+        "definition": "Organizing a company in a new way to improve efficiency or profitability.",
+        "examples": ["The bank announced a major restructuring of its operations."],
+        "type": "noun",
+        "pronunciation": "ˌriːˈstrʌktʃərɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/restr/restructuring__us_1.mp3"
+    },
+    {
+        "word": "capitalization",
+        "definition": "The total value of a company's shares on the stock market.",
+        "examples": ["The firm’s market capitalization reached $2 billion."],
+        "type": "noun",
+        "pronunciation": "ˌkæpɪtləˈzeɪʃn",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capit/capitalization__us_1.mp3"
+    },
+    {
+        "word": "subsidiary",
+        "definition": "A company that is controlled by a larger parent company.",
+        "examples": ["The brand operates as a wholly owned subsidiary of a global group."],
+        "type": "noun",
+        "pronunciation": "səbˈsɪdiəri",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subsi/subsidiary__us_1.mp3"
+    },
+    {
+        "word": "empowerment",
+        "definition": "The process of giving employees more responsibility and authority to make decisions.",
+        "examples": ["Employee empowerment improves motivation and productivity."],
+        "type": "noun",
+        "pronunciation": "ɪmˈpaʊərmənt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/emp/empow/empowerment__us_1.mp3"
+    },
+    {
+        "word": "entrepreneurial",
+        "definition": "Having the qualities that are needed to succeed as an entrepreneur, such as initiative and risk-taking.",
+        "examples": ["She has an entrepreneurial spirit and launched three startups."],
+        "type": "adjective",
+        "pronunciation": "ˌɑːntrəprəˈnɜːriəl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/ent/entre/entrepreneurial__us_1.mp3"
+    }
+]

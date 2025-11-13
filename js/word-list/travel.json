@@ -1,0 +1,450 @@
+[
+    {
+        "word": "itinerary",
+        "definition": "A detailed plan or route of a journey.",
+        "examples": ["Our itinerary includes visits to several historic sites."],
+        "type": "noun",
+        "pronunciation": "aɪˈtɪn.ə.rer.i",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iti/itine/itinerary__us_1.mp3"
+    },
+    {
+        "word": "excursion",
+        "definition": "A short trip or outing, especially for leisure.",
+        "examples": ["We went on an excursion to the countryside."],
+        "type": "noun",
+        "pronunciation": "ɪkˈskɝː.ʒən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exc/excur/excursion__us_1.mp3"
+    },
+    {
+        "word": "destination",
+        "definition": "The place to which someone or something is going.",
+        "examples": ["Paris is a popular tourist destination."],
+        "type": "noun",
+        "pronunciation": "ˌdes.tɪˈneɪ.ʃən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/des/desti/destination__us_1.mp3"
+    },
+    {
+        "word": "accommodation",
+        "definition": "A place where travelers can stay, such as a hotel or hostel.",
+        "examples": ["We booked our accommodation near the beach."],
+        "type": "noun",
+        "pronunciation": "əˌkɑː.məˈdeɪ.ʃən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accom/accommodation__us_1.mp3"
+    },
+    {
+        "word": "backpacking",
+        "definition": "Traveling or camping with a backpack, often on a low budget.",
+        "examples": ["He spent a year backpacking across Europe."],
+        "type": "noun",
+        "pronunciation": "ˈbækˌpæk.ɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bac/backp/backpacking__us_1.mp3"
+    },
+    {
+        "word": "souvenir",
+        "definition": "Something kept as a reminder of a place or event.",
+        "examples": ["She bought a souvenir from every city she visited."],
+        "type": "noun",
+        "pronunciation": "ˌsuː.vəˈnɪr",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sou/souve/souvenir__us_1.mp3"
+    },
+    {
+        "word": "customs",
+        "definition": "The place at an airport or border where officials check goods and people entering a country.",
+        "examples": ["We had to declare our purchases at customs."],
+        "type": "noun",
+        "pronunciation": "ˈkʌs.təmz",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cus/custo/customs__us_1.mp3"
+    },
+    {
+        "word": "jet lag",
+        "definition": "Tiredness caused by moving through different time zones during air travel.",
+        "examples": ["I always get jet lag after long flights."],
+        "type": "noun",
+        "pronunciation": "ˈdʒet læɡ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jet/jet__jetlag__us_1.mp3"
+    },
+    {
+        "word": "embark",
+        "definition": "To go onto a ship or plane before a journey.",
+        "examples": ["Passengers are ready to embark on the cruise."],
+        "type": "verb",
+        "pronunciation": "ɪmˈbɑːrk",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/emb/embar/embark__us_1.mp3"
+    },
+    {
+        "word": "disembark",
+        "definition": "To leave a ship, aircraft, or other vehicle after a journey.",
+        "examples": ["We disembarked from the ferry at dawn."],
+        "type": "verb",
+        "pronunciation": "ˌdɪs.ɪmˈbɑːrk",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dis/disem/disembark__us_1.mp3"
+    },
+    {
+        "word": "expedition",
+        "definition": "A journey undertaken for a specific purpose, often scientific or exploratory.",
+        "examples": ["The team went on an expedition to the Arctic."],
+        "type": "noun",
+        "pronunciation": "ˌek.spəˈdɪʃ.ən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exp/exped/expedition__us_1.mp3"
+    },
+    {
+        "word": "sightseeing",
+        "definition": "The activity of visiting places of interest in a particular location.",
+        "examples": ["We went sightseeing around the old town."],
+        "type": "noun",
+        "pronunciation": "ˈsaɪtˌsiː.ɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sig/sight/sightseeing__us_1.mp3"
+    },
+    {
+        "word": "landmark",
+        "definition": "An easily recognizable or historically significant building or site.",
+        "examples": ["The Eiffel Tower is a famous landmark."],
+        "type": "noun",
+        "pronunciation": "ˈlænd.mɑːrk",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lan/landm/landmark__us_1.mp3"
+    },
+    {
+        "word": "passport",
+        "definition": "An official document issued by a government for international travel.",
+        "examples": ["Don’t forget your passport at home."],
+        "type": "noun",
+        "pronunciation": "ˈpæs.pɔːrt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/passp/passport__us_1.mp3"
+    },
+    {
+        "word": "visa",
+        "definition": "An endorsement on a passport allowing the holder to enter or leave a country.",
+        "examples": ["You need a visa to travel to the United States."],
+        "type": "noun",
+        "pronunciation": "ˈviː.zə",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/vis/visa_/visa__us_1.mp3"
+    },
+    {
+        "word": "resort",
+        "definition": "A place where many people go for rest or recreation.",
+        "examples": ["They stayed at a luxury beach resort."],
+        "type": "noun",
+        "pronunciation": "rɪˈzɔːrt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/resor/resort__us_1.mp3"
+    },
+    {
+        "word": "tour guide",
+        "definition": "A person who shows tourists around places of interest.",
+        "examples": ["The tour guide explained the history of the castle."],
+        "type": "noun",
+        "pronunciation": "ˈtʊr ɡaɪd",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tou/tour_/tour__us_1.mp3"
+    },
+    {
+        "word": "booking",
+        "definition": "An arrangement to reserve something, such as a hotel room or ticket.",
+        "examples": ["I made a booking at the Grand Hotel."],
+        "type": "noun",
+        "pronunciation": "ˈbʊk.ɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/booki/booking__us_1.mp3"
+    },
+    {
+        "word": "check-in",
+        "definition": "The process of reporting your arrival at an airport or hotel.",
+        "examples": ["We arrived early for hotel check-in."],
+        "type": "noun",
+        "pronunciation": "ˈtʃek.ɪn",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check-in__us_1.mp3"
+    },
+    {
+        "word": "check-out",
+        "definition": "The process of leaving and paying for your stay at a hotel.",
+        "examples": ["Check-out time is 11 a.m."],
+        "type": "noun",
+        "pronunciation": "ˈtʃek.aʊt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check-out__us_1.mp3"
+    },
+    {
+        "word": "luggage",
+        "definition": "Bags and suitcases used when traveling.",
+        "examples": ["Her luggage was too heavy to carry."],
+        "type": "noun",
+        "pronunciation": "ˈlʌɡ.ɪdʒ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lug/lugga/luggage__us_1.mp3"
+    },
+    {
+        "word": "campsite",
+        "definition": "A place where people can set up tents or park caravans.",
+        "examples": ["We stayed at a campsite near the river."],
+        "type": "noun",
+        "pronunciation": "ˈkæmp.saɪt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cam/camps/campsite__us_1.mp3"
+    },
+    {
+        "word": "hiking",
+        "definition": "The activity of going for long walks in the countryside.",
+        "examples": ["We spent the weekend hiking in the mountains."],
+        "type": "noun",
+        "pronunciation": "ˈhaɪ.kɪŋ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hik/hikin/hiking__us_1.mp3"
+    },
+    {
+        "word": "getaway",
+        "definition": "A short holiday or vacation.",
+        "examples": ["We planned a romantic weekend getaway."],
+        "type": "noun",
+        "pronunciation": "ˈɡet.ə.weɪ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/get/getaw/getaway__us_1.mp3"
+    },
+    {
+        "word": "itinerant",
+        "definition": "Traveling from place to place, especially for work.",
+        "examples": ["He worked as an itinerant musician."],
+        "type": "adjective",
+        "pronunciation": "aɪˈtɪn.ər.ənt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/iti/itine/itinerant__us_1.mp3"
+    },
+    {
+        "word": "voyage",
+        "definition": "A long journey by sea or in space.",
+        "examples": ["The voyage across the Atlantic took two weeks."],
+        "type": "noun",
+        "pronunciation": "ˈvɔɪ.ɪdʒ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/voy/voyag/voyage__us_1.mp3"
+    },
+    {
+        "word": "layover",
+        "definition": "A short stay between parts of a journey, especially between flights.",
+        "examples": ["We had a two-hour layover in Dubai."],
+        "type": "noun",
+        "pronunciation": "ˈleɪ.oʊ.vɚ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lay/layov/layover__us_1.mp3"
+    },
+    {
+        "word": "trek",
+        "definition": "A long and often difficult journey, usually made on foot.",
+        "examples": ["They went on a five-day trek through the mountains."],
+        "type": "noun",
+        "pronunciation": "trek",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/trek_/trek__us_1.mp3"
+    },
+    {
+        "word": "globetrotter",
+        "definition": "Someone who travels to many countries around the world.",
+        "examples": ["He's a true globetrotter who’s visited over 40 countries."],
+        "type": "noun",
+        "pronunciation": "ˈɡloʊbˌtrɑː.t̬ɚ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/glo/globe/globetrotter__us_1.mp3"
+    },
+    {
+        "word": "expat",
+        "definition": "A person living outside their native country.",
+        "examples": ["Many expats work in international companies."],
+        "type": "noun",
+        "pronunciation": "ˈek.spæt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exp/expat/expat__us_1.mp3"
+    },
+    {
+        "word": "commute",
+        "definition": "To travel regularly between home and work or school.",
+        "examples": ["She commutes to the city by train every day."],
+        "type": "verb",
+        "pronunciation": "kəˈmjuːt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commu/commute__us_1.mp3"
+    },
+    {
+        "word": "traffic congestion",
+        "definition": "A large number of vehicles blocking movement on the road.",
+        "examples": ["Traffic congestion is common during rush hour."],
+        "type": "noun",
+        "pronunciation": "ˈtræf.ɪk kənˈdʒes.tʃən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tra/traff/traffic__us_1.mp3"
+    },
+    {
+        "word": "pedestrian",
+        "definition": "A person walking on a street rather than travelling by vehicle.",
+        "examples": ["Pedestrians should use the crosswalk."],
+        "type": "noun",
+        "pronunciation": "pəˈdes.tri.ən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/ped/pedes/pedestrian__us_1.mp3"
+    },
+    {
+        "word": "intersection",
+        "definition": "A place where two or more roads meet.",
+        "examples": ["Turn left at the next intersection."],
+        "type": "noun",
+        "pronunciation": "ˈɪn.tɚ.sek.ʃən",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/intersection__us_1.mp3"
+    },
+    {
+        "word": "highway",
+               "definition": "A main road that connects cities or towns.",
+        "examples": ["They drove along the coastal highway."],
+        "type": "noun",
+        "pronunciation": "ˈhaɪ.weɪ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hig/highw/highway__us_1.mp3"
+    },
+    {
+        "word": "ferry",
+        "definition": "A boat that carries people or goods across a stretch of water.",
+        "examples": ["We took a ferry to the island."],
+        "type": "noun",
+        "pronunciation": "ˈfer.i",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fer/ferry/ferry__us_1.mp3"
+    },
+    {
+        "word": "subway",
+        "definition": "An underground railway system in a city.",
+        "examples": ["The subway is the fastest way to get downtown."],
+        "type": "noun",
+        "pronunciation": "ˈsʌb.weɪ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subwa/subway__us_1.mp3"
+    },
+    {
+        "word": "carpool",
+        "definition": "An arrangement where several people travel together in one car to reduce cost or pollution.",
+        "examples": ["We carpool to work to save fuel."],
+        "type": "verb",
+        "pronunciation": "ˈkɑːr.puːl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carpool/carpool__us_1.mp3"
+    },
+    {
+        "word": "roundabout",
+        "definition": "A circular road junction where drivers move around a central island.",
+        "examples": ["Take the second exit at the roundabout."],
+        "type": "noun",
+        "pronunciation": "ˈraʊnd.ə.baʊt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rou/round/roundabout__us_1.mp3"
+    },
+    {
+        "word": "runway",
+        "definition": "A strip of hard ground where airplanes take off and land.",
+        "examples": ["The plane is taxiing to the runway."],
+        "type": "noun",
+        "pronunciation": "ˈrʌn.weɪ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/run/runwa/runway__us_1.mp3"
+    },
+    {
+        "word": "baggage claim",
+        "definition": "The area in an airport where passengers collect their luggage after a flight.",
+        "examples": ["Let's meet at the baggage claim area."],
+        "type": "noun",
+        "pronunciation": "ˈbæɡ.ɪdʒ kleɪm",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bag/bagga/baggage__us_1.mp3"
+    },
+    {
+        "word": "departure",
+        "definition": "The act of leaving a place, especially to start a journey.",
+        "examples": ["The departure of flight 302 has been delayed."],
+        "type": "noun",
+        "pronunciation": "dɪˈpɑːr.tʃɚ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dep/depar/departure__us_1.mp3"
+    },
+    {
+        "word": "arrival",
+        "definition": "The act of coming to a place.",
+        "examples": ["Please check the arrival times on the screen."],
+        "type": "noun",
+        "pronunciation": "əˈraɪ.vəl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/arr/arriv/arrival__us_1.mp3"
+    },
+    {
+        "word": "vehicle",
+        "definition": "Something used for transporting people or goods, especially on land.",
+        "examples": ["Only authorized vehicles are allowed beyond this point."],
+        "type": "noun",
+        "pronunciation": "ˈviː.ə.kəl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/veh/vehic/vehicle__us_1.mp3"
+    },
+    {
+        "word": "fuel efficiency",
+        "definition": "The ability of a vehicle to travel a distance using less fuel.",
+        "examples": ["Hybrid cars are known for their fuel efficiency."],
+        "type": "noun",
+        "pronunciation": "ˈfjuː.əl ɪˈfɪʃ.ən.si",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fue/fuel_/fuel__us_1.mp3"
+    },
+    {
+        "word": "seatbelt",
+        "definition": "A safety strap in a car or plane that holds passengers in place.",
+        "examples": ["Please fasten your seatbelt before takeoff."],
+        "type": "noun",
+        "pronunciation": "ˈsiːt.belt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/seatb/seatbelt__us_1.mp3"
+    },
+    {
+        "word": "taxi stand",
+        "definition": "A designated place where taxis wait for passengers.",
+        "examples": ["There’s a taxi stand outside the main gate."],
+        "type": "noun",
+        "pronunciation": "ˈtæk.si stænd",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tax/taxi_/taxi__us_1.mp3"
+    },
+    {
+        "word": "license plate",
+        "definition": "A sign with letters and numbers on a vehicle showing its registration.",
+        "examples": ["The police recorded the license plate number."],
+        "type": "noun",
+        "pronunciation": "ˈlaɪ.səns pleɪt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lic/licen/license__us_1.mp3"
+    },
+    {
+        "word": "engine",
+        "definition": "The part of a vehicle that produces power to make it move.",
+        "examples": ["The engine makes a strange noise when it starts."],
+        "type": "noun",
+        "pronunciation": "ˈen.dʒɪn",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eng/engin/engine__us_1.mp3"
+    },
+    {
+        "word": "cargo",
+        "definition": "Goods carried by a ship, aircraft, or other vehicle.",
+        "examples": ["The ship was loaded with cargo."],
+        "type": "noun",
+        "pronunciation": "ˈkɑːr.ɡoʊ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/cargo/cargo__us_1.mp3"
+    },
+    {
+        "word": "terminal",
+        "definition": "A building where passengers begin or end their journey, especially at an airport.",
+        "examples": ["We’ll meet you at Terminal 2."],
+        "type": "noun",
+        "pronunciation": "ˈtɝː.mɪ.nəl",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/ter/termi/terminal__us_1.mp3"
+    },
+    {
+        "word": "platform",
+        "definition": "A raised area beside a railway track where passengers get on or off trains.",
+        "examples": ["The train to Oxford leaves from platform 4."],
+        "type": "noun",
+        "pronunciation": "ˈplæt.fɔːrm",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pla/platf/platform__us_1.mp3"
+    },
+    {
+        "word": "helm",
+        "definition": "The wheel or control used to steer a ship or boat.",
+        "examples": ["The captain stood at the helm of the ship."],
+        "type": "noun",
+        "pronunciation": "helm",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/helm_/helm__us_1.mp3"
+    },
+    {
+        "word": "hovercraft",
+        "definition": "A vehicle that travels over land or water on a cushion of air.",
+        "examples": ["The hovercraft crosses the channel in half an hour."],
+        "type": "noun",
+        "pronunciation": "ˈhʌv.ɚ.kræft",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hov/hover/hovercraft__us_1.mp3"
+    },
+    {
+        "word": "railway",
+        "definition": "A track made of steel rails along which trains run.",
+        "examples": ["The new railway connects major cities."],
+        "type": "noun",
+        "pronunciation": "ˈreɪl.weɪ",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/railw/railway__us_1.mp3"
+    },
+    {
+        "word": "pilot",
+        "definition": "A person who operates the flying controls of an aircraft.",
+        "examples": ["The pilot announced that we would arrive early."],
+        "type": "noun",
+        "pronunciation": "ˈpaɪ.lət",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pil/pilot/pilot__us_1.mp3"
+    }
+]
