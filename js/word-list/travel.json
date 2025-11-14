@@ -61,7 +61,7 @@
         "examples": ["I always get jet lag after long flights."],
         "type": "noun",
         "pronunciation": "ˈdʒet læɡ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jet/jet__jetlag__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jet/jet_l/jet_lag_1_us_1.mp3"
     },
     {
         "word": "embark",
@@ -149,7 +149,7 @@
         "examples": ["We arrived early for hotel check-in."],
         "type": "noun",
         "pronunciation": "ˈtʃek.ɪn",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check-in__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check_in_1_us_1.mp3"
     },
     {
         "word": "check-out",
@@ -157,7 +157,7 @@
         "examples": ["Check-out time is 11 a.m."],
         "type": "noun",
         "pronunciation": "ˈtʃek.aʊt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check-out__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/check/check_out__us_1.mp3"
     },
     {
         "word": "luggage",
@@ -360,12 +360,12 @@
         "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fue/fuel_/fuel__us_1.mp3"
     },
     {
-        "word": "seatbelt",
+        "word": "seat belt",
         "definition": "A safety strap in a car or plane that holds passengers in place.",
-        "examples": ["Please fasten your seatbelt before takeoff."],
+        "examples": ["Please fasten your seat belt before takeoff."],
         "type": "noun",
-        "pronunciation": "ˈsiːt.belt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/seatb/seatbelt__us_1.mp3"
+        "pronunciation": "ˈsiːt belt",
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sea/seat_/seat_belt__us_1.mp3"
     },
     {
         "word": "taxi stand",

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 FROM node:18-alpine
+=======
+FROM node:24-alpine
+>>>>>>> f179b184766000fd9d4f08cc2bfdd97dcd510adf
 
 WORKDIR /app
 
