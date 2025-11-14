@@ -61,3 +61,66 @@ main p {
 .contact ul li {
   margin-bottom: 10px;
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    margin: 15px;
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  main p {
+    font-size: 0.95rem;
+  }
+
+  .team ul,
+  .contact ul {
+    font-size: 15px;
+  }
+
+  .team ul {
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    margin: 10px;
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  main p {
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+  }
+
+  .team ul,
+  .contact ul {
+    font-size: 14px;
+  }
+
+  .team ul {
+    padding-left: 20px;
+  }
+
+  .team ul li,
+  .contact ul li {
+    margin-bottom: 8px;
+  }
+}
