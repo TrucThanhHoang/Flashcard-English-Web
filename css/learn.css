@@ -162,3 +162,172 @@
     }
   }
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    gap: 1.2rem;
+    margin-top: 0.8rem;
+    padding: 15px;
+  }
+
+  .content-header {
+    font-size: 1.5rem;
+  }
+
+  .flashcard-card {
+    .flashcard-front,
+    .flashcard-back {
+      height: 300px;
+      padding: 0.8rem 1.5rem;
+    }
+
+    .flashcard-front h2 {
+      font-size: 1.5rem;
+    }
+
+    .flashcard-back h3 {
+      font-size: 1.3rem;
+    }
+
+    .flashcard-back h4 {
+      font-size: 1rem;
+    }
+
+    .flashcard-back p,
+    .flashcard-back ul {
+      font-size: 0.95rem;
+    }
+  }
+
+  .flashcard-image {
+    width: 50%;
+  }
+
+  .flashcard-controls {
+    flex-wrap: wrap;
+    gap: 8px;
+
+    button {
+      padding: 0.8rem;
+      font-size: 0.85rem;
+      max-width: 130px;
+    }
+  }
+
+  .learn-controls {
+    flex-wrap: wrap;
+    gap: 10px;
+
+    a {
+      font-size: 0.9rem;
+    }
+
+    button {
+      font-size: 0.85rem;
+      padding: 0.4rem 0.8rem;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    gap: 1rem;
+    padding: 10px;
+  }
+
+  .content-header {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .flashcard-controls,
+  .flashcard-container {
+    padding: 0.75rem;
+  }
+
+  .flashcard-card {
+    .flashcard-front,
+    .flashcard-back {
+      height: 280px;
+      padding: 0.75rem 1rem;
+    }
+
+    .flashcard-front h2 {
+      font-size: 1.3rem;
+    }
+
+    .flashcard-back h3 {
+      font-size: 1.1rem;
+    }
+
+    .flashcard-back h4 {
+      font-size: 0.95rem;
+      margin-top: 6px;
+    }
+
+    .flashcard-back p,
+    .flashcard-back ul {
+      font-size: 0.85rem;
+    }
+
+    .flashcard-back ul {
+      margin-left: 16px;
+    }
+  }
+
+  .flashcard-image {
+    width: 60%;
+  }
+
+  .flashcard-controls {
+    flex-direction: column;
+    gap: 0;
+
+    button {
+      padding: 0.6rem;
+      font-size: 0.8rem;
+      max-width: 100%;
+      width: 100%;
+      flex-direction: row;
+      justify-content: center;
+      gap: 10px;
+
+      svg {
+        width: 20px;
+        height: 20px;
+      }
+
+      p {
+        margin: 0;
+      }
+    }
+  }
+
+  .learn-controls {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    width: 100%;
+
+    a {
+      font-size: 0.85rem;
+    }
+
+    button {
+      width: 100%;
+      font-size: 0.8rem;
+    }
+  }
+
+  .play-audio-button {
+    width: 35px;
+    height: 35px;
+    font-size: 13px;
+
+    svg {
+      width: 14px;
+      height: 14px;
+    }
+  }
+}

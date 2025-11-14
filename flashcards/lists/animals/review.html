@@ -12,6 +12,14 @@
       <div class="logo">
         <a href="../../.."> Flashcards English </a>
       </div>
+
+      <div class="menu-overlay"></div>
+      <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
       <nav>
         <a href="../../..">Home</a>
         <a href="../../../about">About</a>
@@ -27,7 +35,7 @@
         ><button class="button-primary" style="width: 100%">Learn</button></a
       >
 
-      <div style="display: flex; justify-content: space-between">
+      <div class="review-controls" >
         <p id="word-list-count">List có {{count}} từ</p>
         <button id="clear-progress-btn" class="button-secondary">
           Clear Progress
@@ -41,6 +49,7 @@
       <p>&copy; 2025 Flashcards English. All rights reserved.</p>
     </footer>
 
+    <script src="../../../js/index.js" type="text/javascript"></script>
     <script src="../../../js/review.js" type="text/javascript"></script>
     <script>
       injectWordList('animals');
