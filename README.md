@@ -56,8 +56,6 @@ docker run -d -p 5500:5500 --name flashcards-web-container flashcards-web
 ```
 
 4. The project will be available at:  
-<<<<<<< HEAD
+
  [http://localhost:5500](http://localhost:5500)
-=======
- [http://localhost:5500](http://localhost:5500)
->>>>>>> origin/phan
+

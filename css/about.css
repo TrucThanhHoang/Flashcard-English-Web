@@ -1,63 +1,111 @@
+/* ===== ABOUT PAGE BETTER UI ===== */
+
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+  line-height: 1.7;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  background-color: #f0f4ff;
+  color: #333;
 }
 
 /* Container */
 .container {
   max-width: 900px;
-  margin: 20px auto;
+  margin: 40px auto;
   background: white;
-  padding: 30px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
+  padding: 40px 50px;
+  border-radius: 16px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.08);
+  animation: fadeIn 0.4s ease;
 }
 
-h1,
-h2 {
-  color: #333;
+h1 {
   text-align: center;
+  font-size: 2.3rem;
+  color: #007bff;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+  font-size: 1.8rem;
+  color: #0056d6;
+  text-align: center;
+  font-weight: bold;
 }
 
 main p {
-  margin-bottom: 15px;
+  margin-bottom: 18px;
+  font-size: 1.05rem;
   color: #555;
+  text-align: justify;
 }
 
-.team {
+/* ========== TEAM SECTION ========== */
+
+.team-section {
   margin-top: 40px;
 }
 
-.team ul {
-  list-style-type: disc;
-  padding-left: 40px;
-  color: #555;
-  font-size: 16px;
+.team-section ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
 }
-.team ul li {
+
+.team-section ul li {
+  background: #e8f1ff;
   margin-bottom: 10px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+  border-left: 4px solid #007bff;
+  transition: transform 0.2s;
 }
+
+.team-section ul li:hover {
+  transform: translateX(5px);
+}
+
+/* ========== CONTACT SECTION ========== */
 
 .contact {
-  margin-top: 40px;
+  margin-top: 50px;
+  padding: 25px;
+  border-radius: 12px;
+  background: #f8fbff;
   text-align: center;
-}
-
-.contact h2 {
-  margin-bottom: 20px;
-  color: #333;
+  border: 1px solid #e0e8ff;
 }
 
 .contact ul {
-  list-style-type: none;
+  list-style: none;
   padding: 0;
-  color: #555;
-  font-size: 16px;
 }
 
 .contact ul li {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  font-size: 1.05rem;
+  color: #444;
+}
+
+/* Footer spacing fix for nicer UI */
+footer {
+  margin-top: 50px;
+}
+
+/* Fade animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
