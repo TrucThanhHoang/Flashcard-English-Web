@@ -4,7 +4,7 @@ const flashcards = [
     level: 'Beginner',
     description:
       'Essential words for everyday communication and basic conversations.',
-    link: '../../flashcards/lists/basic/review.html',
+    link: '../lists/basic/review.html',
     count: 50,
     image: {
       src: '../../images/index2.jpg',
@@ -16,7 +16,7 @@ const flashcards = [
     level: 'Beginner',
     description:
       'Learn about different animals and natural elements in English.',
-    link: '../../flashcards/lists/animals/review.html',
+    link: '../lists/animals/review.html',
     count: 40,
     image: {
       src: '../../images/index3.jpg',
@@ -27,7 +27,7 @@ const flashcards = [
     title: 'Food & Drinks',
     level: 'Intermediate',
     description: 'Vocabulary related to food, drinks, and dining experiences.',
-    link: '../../flashcards/lists/food/review.html',
+    link: '../lists/food/review.html',
     count: 60,
     image: {
       src: '../../images/index4.jpg',
@@ -39,7 +39,7 @@ const flashcards = [
     level: 'Intermediate',
     description:
       'Common terms and phrases used in travel and transportation contexts.',
-    link: '../../flashcards/lists/travel/review.html',
+    link: '../lists/travel/review.html',
     count: 55,
     image: {
       src: '../../images/index5.jpg',
@@ -51,7 +51,7 @@ const flashcards = [
     level: 'Advanced',
     description:
       'Key vocabulary for professional settings and business communication.',
-    link: '../../flashcards/lists/business/review.html',
+    link: '../lists/business/review.html',
     count: 70,
     image: {
       src: '../../images/index6.jpg',

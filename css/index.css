@@ -103,8 +103,8 @@ body {
 .cards-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
+  justify-content: center;
+  gap: 20px;
 }
 
 /* Contact Section */
@@ -265,6 +265,9 @@ footer {
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     background-color: #fff;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -277,6 +280,8 @@ footer {
 
 .card img {
     width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
     border-radius: 12px;
     margin-bottom: 15px;
 }
@@ -291,6 +296,8 @@ footer {
 }
 
 .card .level {
+    width: fit-content;
+
     &.beginner {
         background-color: #4caf50;
     }
