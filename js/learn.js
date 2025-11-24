@@ -75,7 +75,7 @@ const setupFlashcard = (setName, wordList, wordIndex) => {
               </div>
 
               <div class="flashcard-image">
-                <img src="../../../images/index1.jpg" alt="hi" />
+                <img src="${word.image || "../../../images/placeholder.png"}" alt="${word.word}" />
               </div>
             </div>
       `;

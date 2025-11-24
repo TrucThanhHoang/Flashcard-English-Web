@@ -5,7 +5,8 @@
     "examples": ["She took a bite of the juicy apple."],
     "type": "noun",
     "pronunciation": "ˈæp.əl",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_apple.jpg"
   },
   {
     "word": "banana",
@@ -13,7 +14,8 @@
     "examples": ["He peeled a banana for breakfast."],
     "type": "noun",
     "pronunciation": "bəˈnæn.ə",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_banana.jpg"
   },
   {
     "word": "book",
@@ -21,7 +23,8 @@
     "examples": ["She borrowed a book from the library."],
     "type": "noun",
     "pronunciation": "bʊk",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/book_/book__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/boo/book_/book__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_book.jpg"
   },
   {
     "word": "cat",
@@ -29,7 +32,8 @@
     "examples": ["The cat slept on the windowsill."],
     "type": "noun",
     "pronunciation": "kæt",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cat/cat__/cat__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_cat.jpg"
   },
   {
     "word": "dog",
@@ -37,7 +41,8 @@
     "examples": ["Their dog chased the ball in the park."],
     "type": "noun",
     "pronunciation": "dɔg",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dog/dog__/dog__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_dog.jpg"
   },
   {
     "word": "house",
@@ -45,7 +50,8 @@
     "examples": ["They moved into a new house last month."],
     "type": "noun",
     "pronunciation": "haʊs",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/house/house__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hou/house/house__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_house.jpg"
   },
   {
     "word": "car",
@@ -53,7 +59,8 @@
     "examples": ["He parked the car outside the store."],
     "type": "noun",
     "pronunciation": "kɑr",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/car__/car__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/car__/car__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_car.jpg"
   },
   {
     "word": "tree",
@@ -61,7 +68,8 @@
     "examples": ["The old oak tree shaded the garden."],
     "type": "noun",
     "pronunciation": "triː",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tre/tree_/tree__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_tree.jpg"
   },
   {
     "word": "river",
@@ -69,7 +77,8 @@
     "examples": ["They picnicked on the banks of the river."],
     "type": "noun",
     "pronunciation": "ˈrɪvər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/riv/river/river__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_river.jpg"
   },
   {
     "word": "mountain",
@@ -77,7 +86,8 @@
     "examples": ["They climbed a mountain during their trip."],
     "type": "noun",
     "pronunciation": "ˈmaʊn.tən",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mou/mount/mountain__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_mountain.jpg"
   },
   {
     "word": "computer",
@@ -85,7 +95,8 @@
     "examples": ["She uses a new computer for programming."],
     "type": "noun",
     "pronunciation": "kəmˈpjuː.tər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compu/computer__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compu/computer__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_computer.jpg"
   },
   {
     "word": "phone",
@@ -93,7 +104,8 @@
     "examples": ["He answered the phone on the second ring."],
     "type": "noun",
     "pronunciation": "foʊn",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/phone/phone__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pho/phone/phone__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_phone.jpg"
   },
   {
     "word": "table",
@@ -101,7 +113,8 @@
     "examples": ["They set the plates on the table."],
     "type": "noun",
     "pronunciation": "ˈteɪ.bəl",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tab/table/table__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tab/table/table__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_table.jpg"
   },
   {
     "word": "chair",
@@ -109,7 +122,8 @@
     "examples": ["Please take a chair and sit down."],
     "type": "noun",
     "pronunciation": "tʃɛər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chair/chair__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chair/chair__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_chair.jpg"
   },
   {
     "word": "window",
@@ -117,7 +131,8 @@
     "examples": ["She opened the window to let in fresh air."],
     "type": "noun",
     "pronunciation": "ˈwɪn.doʊ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windo/window__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/windo/window__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_window.jpg"
   },
   {
     "word": "door",
@@ -125,7 +140,8 @@
     "examples": ["He knocked and pushed the door open."],
     "type": "noun",
     "pronunciation": "dɔr",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/doo/door_/door__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/doo/door_/door__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_door.jpg"
   },
   {
     "word": "school",
@@ -133,7 +149,8 @@
     "examples": ["The children walked to school together."],
     "type": "noun",
     "pronunciation": "skuːl",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sch/schoo/school__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sch/schoo/school__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_school.jpg"
   },
   {
     "word": "teacher",
@@ -141,7 +158,8 @@
     "examples": ["Her teacher explained the lesson clearly."],
     "type": "noun",
     "pronunciation": "ˈtiː.tʃər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/teach/teacher__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/teach/teacher__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_teacher.jpg"
   },
   {
     "word": "student",
@@ -149,7 +167,8 @@
     "examples": ["The student submitted the assignment on time."],
     "type": "noun",
     "pronunciation": "ˈstuː.dənt",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/stude/student__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/stu/stude/student__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_student.jpg"
   },
   {
     "word": "city",
@@ -157,7 +176,8 @@
     "examples": ["They moved to the city for work."],
     "type": "noun",
     "pronunciation": "ˈsɪt.i",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cit/city_/city__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cit/city_/city__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_city.jpg"
   },
   {
     "word": "country",
@@ -165,7 +185,8 @@
     "examples": ["She enjoys traveling in the countryside."],
     "type": "noun",
     "pronunciation": "ˈkʌn.tri",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/country__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cou/count/country__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_country.jpg"
   },
   {
     "word": "music",
@@ -173,7 +194,8 @@
     "examples": ["He listened to music while studying."],
     "type": "noun",
     "pronunciation": "ˈmjuː.zɪk",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mus/music/music__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_music.jpg"
   },
   {
     "word": "song",
@@ -181,7 +203,8 @@
     "examples": ["That song always lifts her mood."],
     "type": "noun",
     "pronunciation": "sɔŋ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/son/song_/song__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/son/song_/song__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_song.jpg"
   },
   {
     "word": "art",
@@ -189,7 +212,8 @@
     "examples": ["The gallery displayed modern art."],
     "type": "noun",
     "pronunciation": "ɑrt",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art__/art__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/art/art__/art__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_art.jpg"
   },
   {
     "word": "painting",
@@ -197,7 +221,8 @@
     "examples": ["He admired the painting at the museum."],
     "type": "noun",
     "pronunciation": "ˈpeɪn.tɪŋ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/paint/painting__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pai/paint/painting__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_painting.jpg"
   },
   {
     "word": "movie",
@@ -205,7 +230,8 @@
     "examples": ["They watched a movie on Friday night."],
     "type": "noun",
     "pronunciation": "ˈmuː.vi",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movie/movie__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mov/movie/movie__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_movie.jpg"
   },
   {
     "word": "film",
@@ -213,7 +239,8 @@
     "examples": ["The film won several awards at the festival."],
     "type": "noun",
     "pronunciation": "fɪlm",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fil/film_/film__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fil/film_/film__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_film.jpg"
   },
   {
     "word": "coffee",
@@ -221,7 +248,8 @@
     "examples": ["She needs a cup of coffee every morning."],
     "type": "noun",
     "pronunciation": "ˈkɒf.i",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cof/coffe/coffee__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cof/coffe/coffee__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_coffee.jpg"
   },
   {
     "word": "tea",
@@ -229,7 +257,8 @@
     "examples": ["He prefers green tea after meals."],
     "type": "noun",
     "pronunciation": "tiː",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_tea.jpg"
   },
   {
     "word": "water",
@@ -237,7 +266,8 @@
     "examples": ["Drink plenty of water during the hike."],
     "type": "noun",
     "pronunciation": "ˈwɔː.tər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_water.jpg"
   },
   {
     "word": "bread",
@@ -245,7 +275,8 @@
     "examples": ["They bought fresh bread from the bakery."],
     "type": "noun",
     "pronunciation": "brɛd",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_bread.jpg"
   },
   {
     "word": "cheese",
@@ -253,7 +284,8 @@
     "examples": ["She added cheese to the sandwich."],
     "type": "noun",
     "pronunciation": "tʃiːz",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_cheese.jpg"
   },
   {
     "word": "market",
@@ -261,7 +293,8 @@
     "examples": ["They visited the local market on Saturday."],
     "type": "noun",
     "pronunciation": "ˈmɑr.kɪt",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/market__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/market__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_market.jpg"
   },
   {
     "word": "garden",
@@ -269,7 +302,8 @@
     "examples": ["She tends the vegetables in her garden."],
     "type": "noun",
     "pronunciation": "ˈgɑr.dən",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garde/garden__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_garden.jpg"
   },
   {
     "word": "flower",
@@ -277,7 +311,8 @@
     "examples": ["He picked a flower for her."],
     "type": "noun",
     "pronunciation": "ˈflaʊ.ər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/flo/flowe/flower__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_flower.jpg"
   },
   {
     "word": "sun",
@@ -285,7 +320,8 @@
     "examples": ["The sun rose over the horizon."],
     "type": "noun",
     "pronunciation": "sʌn",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sun/sun__/sun__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_sun.jpg"
   },
   {
     "word": "moon",
@@ -293,7 +329,8 @@
     "examples": ["They watched the full moon together."],
     "type": "noun",
     "pronunciation": "muːn",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/moo/moon_/moon__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_moon.jpg"
   },
   {
     "word": "star",
@@ -301,7 +338,8 @@
     "examples": ["The sky was full of stars last night."],
     "type": "noun",
     "pronunciation": "stɑr",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sta/star_/star__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_star.jpg"
   },
   {
     "word": "sky",
@@ -309,7 +347,8 @@
     "examples": ["The sky turned orange at sunset."],
     "type": "noun",
     "pronunciation": "skaɪ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sky/sky__/sky__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sky/sky__/sky__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_sky.jpg"
   },
   {
     "word": "cloud",
@@ -317,7 +356,8 @@
     "examples": ["Dark clouds signaled an approaching storm."],
     "type": "noun",
     "pronunciation": "klaʊd",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/clo/cloud/cloud__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_cloud.jpg"
   },
   {
     "word": "rain",
@@ -325,7 +365,8 @@
     "examples": ["They canceled the picnic because of rain."],
     "type": "noun",
     "pronunciation": "reɪn",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rai/rain_/rain__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_rain.jpg"
   },
   {
     "word": "snow",
@@ -333,7 +374,8 @@
     "examples": ["Children built a snowman after the snowfall."],
     "type": "noun",
     "pronunciation": "snoʊ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snow_/snow__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sno/snow_/snow__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_snow.jpg"
   },
   {
     "word": "wind",
@@ -341,7 +383,8 @@
     "examples": ["The wind blew the leaves across the yard."],
     "type": "noun",
     "pronunciation": "wɪnd",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/win/wind_/wind__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_wind.jpg"
   },
   {
     "word": "fire",
@@ -349,7 +392,8 @@
     "examples": ["They warmed themselves by the campfire."],
     "type": "noun",
     "pronunciation": "faɪər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fir/fire_/fire__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fir/fire_/fire__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_fire.jpg"
   },
   {
     "word": "stone",
@@ -357,7 +401,8 @@
     "examples": ["He skipped a stone across the lake."],
     "type": "noun",
     "pronunciation": "stoʊn",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sto/stone/stone__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sto/stone/stone__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_stone.jpg"
   },
   {
     "word": "glass",
@@ -365,7 +410,8 @@
     "examples": ["Be careful with the glass vase."],
     "type": "noun",
     "pronunciation": "glæs",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gla/glass/glass__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_glass.jpg"
   },
   {
     "word": "paper",
@@ -373,7 +419,8 @@
     "examples": ["She folded the paper into a paper airplane."],
     "type": "noun",
     "pronunciation": "ˈpeɪ.pər",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pap/paper/paper__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pap/paper/paper__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_paper.jpg"
   },
   {
     "word": "money",
@@ -381,7 +428,8 @@
     "examples": ["He counted the money before paying the bill."],
     "type": "noun",
     "pronunciation": "ˈmʌn.i",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/money/money__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mon/money/money__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_money.jpg"
   },
   {
     "word": "time",
@@ -389,7 +437,8 @@
     "examples": ["They didn't have enough time to finish the project."],
     "type": "noun",
     "pronunciation": "taɪm",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/time_/time__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tim/time_/time__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_time.jpg"
   },
   {
     "word": "day",
@@ -397,7 +446,8 @@
     "examples": ["She worked all day on the report."],
     "type": "noun",
     "pronunciation": "deɪ",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/day/day__/day__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/day/day__/day__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_day.jpg"
   },
   {
     "word": "night",
@@ -405,6 +455,7 @@
     "examples": ["The town is quiet at night."],
     "type": "noun",
     "pronunciation": "naɪt",
-    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/night__us_1.mp3"
+    "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nig/night/night__us_1.mp3",
+    "image": "https://study4.com/media/vocabs_media/img/9_night.jpg"
   }
 ]

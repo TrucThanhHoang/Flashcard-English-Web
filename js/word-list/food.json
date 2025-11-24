@@ -5,7 +5,8 @@
         "examples": ["She baked a loaf of bread this morning."],
         "type": "noun",
         "pronunciation": "bred",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/bread/bread__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_bread.jpg"
     },
     {
         "word": "butter",
@@ -13,7 +14,8 @@
         "examples": ["He spread butter on his toast."],
         "type": "noun",
         "pronunciation": "ˈbʌt̬.ɚ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/butte/butter__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/but/butte/butter__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_butter.jpg"
     },
     {
         "word": "cheese",
@@ -21,7 +23,8 @@
         "examples": ["I love cheese on my pizza."],
         "type": "noun",
         "pronunciation": "tʃiːz",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/chees/cheese__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_cheese.jpg"
     },
     {
         "word": "egg",
@@ -29,7 +32,8 @@
         "examples": ["She boiled two eggs for breakfast."],
         "type": "noun",
         "pronunciation": "eɡ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/egg/egg__/egg__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/egg/egg__/egg__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_egg.jpg"
     },
     {
         "word": "rice",
@@ -37,7 +41,8 @@
         "examples": ["We had chicken and rice for lunch."],
         "type": "noun",
         "pronunciation": "raɪs",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ric/rice_/rice__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ric/rice_/rice__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_rice.jpg"
     },
     {
         "word": "noodle",
@@ -45,7 +50,8 @@
         "examples": ["She cooked some noodles with vegetables."],
         "type": "noun",
         "pronunciation": "ˈnuː.dəl",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noo/noodl/noodle__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/noo/noodl/noodle__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_noodle.jpg"
     },
     {
         "word": "beef",
@@ -53,7 +59,8 @@
         "examples": ["They ordered grilled beef for dinner."],
         "type": "noun",
         "pronunciation": "biːf",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beef_/beef__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bee/beef_/beef__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_beef.jpg"
     },
     {
         "word": "pork",
@@ -61,7 +68,8 @@
         "examples": ["She doesn’t eat pork for religious reasons."],
         "type": "noun",
         "pronunciation": "pɔːrk",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/pork_/pork__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/por/pork_/pork__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pork.jpg"
     },
     {
         "word": "chicken",
@@ -69,7 +77,8 @@
         "examples": ["We had roast chicken for dinner."],
         "type": "noun",
         "pronunciation": "ˈtʃɪk.ɪn",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chi/chick/chicken__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/chi/chick/chicken__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_chicken.jpg"
     },
     {
         "word": "fish",
@@ -77,7 +86,8 @@
         "examples": ["She bought fresh fish from the market."],
         "type": "noun",
         "pronunciation": "fɪʃ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fis/fish_/fish__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_fish.jpg"
     },
     {
         "word": "shrimp",
@@ -85,7 +95,8 @@
         "examples": ["He ordered fried shrimp for lunch."],
         "type": "noun",
         "pronunciation": "ʃrɪmp",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrim/shrimp__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/shr/shrim/shrimp__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_shrimp.jpg"
     },
     {
         "word": "salad",
@@ -93,7 +104,8 @@
         "examples": ["She made a fresh salad with tomatoes and lettuce."],
         "type": "noun",
         "pronunciation": "ˈsæl.əd",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salad/salad__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salad/salad__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_salad.jpg"
     },
     {
         "word": "soup",
@@ -101,7 +113,8 @@
         "examples": ["The soup was hot and delicious."],
         "type": "noun",
         "pronunciation": "suːp",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sou/soup_/soup__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sou/soup_/soup__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_soup.jpg"
     },
     {
         "word": "sandwich",
@@ -109,7 +122,8 @@
         "examples": ["He packed a cheese sandwich for lunch."],
         "type": "noun",
         "pronunciation": "ˈsænd.wɪtʃ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/san/sandw/sandwich__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/san/sandw/sandwich__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_sandwich.jpg"
     },
     {
         "word": "burger",
@@ -117,7 +131,8 @@
         "examples": ["We had burgers and fries at the café."],
         "type": "noun",
         "pronunciation": "ˈbɝː.ɡɚ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burge/burger__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bur/burge/burger__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_burger.jpg"
     },
     {
         "word": "pizza",
@@ -125,7 +140,8 @@
         "examples": ["We ordered a pepperoni pizza for dinner."],
         "type": "noun",
         "pronunciation": "ˈpiːt.sə",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/piz/pizza/pizza__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/piz/pizza/pizza__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pizza.jpg"
     },
     {
         "word": "pasta",
@@ -133,7 +149,8 @@
         "examples": ["She cooked spaghetti pasta for dinner."],
         "type": "noun",
         "pronunciation": "ˈpæs.tə",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/pasta/pasta__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pas/pasta/pasta__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pasta.jpg"
     },
     {
         "word": "sauce",
@@ -141,7 +158,8 @@
         "examples": ["She added tomato sauce to the pasta."],
         "type": "noun",
         "pronunciation": "sɔːs",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sau/sauce/sauce__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sau/sauce/sauce__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_sauce.jpg"
     },
     {
         "word": "spice",
@@ -149,7 +167,8 @@
         "examples": ["They used many spices in the curry."],
         "type": "noun",
         "pronunciation": "spaɪs",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spice/spice__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spi/spice/spice__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_spice.jpg"
     },
     {
         "word": "salt",
@@ -157,7 +176,8 @@
         "examples": ["Add a pinch of salt to the soup."],
         "type": "noun",
         "pronunciation": "sɔːlt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salt_/salt__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sal/salt_/salt__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_salt.jpg"
     },
     {
         "word": "pepper",
@@ -165,7 +185,8 @@
         "examples": ["He sprinkled black pepper on the eggs."],
         "type": "noun",
         "pronunciation": "ˈpep.ɚ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pep/peppe/pepper__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pep/peppe/pepper__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pepper.jpg"
     },
     {
         "word": "onion",
@@ -173,7 +194,8 @@
         "examples": ["She chopped the onions for the soup."],
         "type": "noun",
         "pronunciation": "ˈʌn.jən",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oni/onion/onion__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/oni/onion/onion__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_onion.jpg"
     },
     {
         "word": "garlic",
@@ -181,7 +203,8 @@
         "examples": ["Add some garlic to make it more flavorful."],
         "type": "noun",
         "pronunciation": "ˈɡɑːr.lɪk",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garli/garlic__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gar/garli/garlic__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_garlic.jpg"
     },
     {
         "word": "tomato",
@@ -189,7 +212,8 @@
         "examples": ["She sliced fresh tomatoes for the salad."],
         "type": "noun",
         "pronunciation": "təˈmeɪ.toʊ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomat/tomato__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tom/tomat/tomato__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_tomato.jpg"
     },
     {
         "word": "carrot",
@@ -197,7 +221,8 @@
         "examples": ["He added carrots to the stew."],
         "type": "noun",
         "pronunciation": "ˈkær.ət",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carro/carrot__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/car/carro/carrot__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_carrot.jpg"
     },
     {
         "word": "potato",
@@ -205,7 +230,8 @@
         "examples": ["She made mashed potatoes for dinner."],
         "type": "noun",
         "pronunciation": "pəˈteɪ.toʊ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/potat/potato__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pot/potat/potato__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_potato.jpg"
     },
     {
         "word": "fruit",
@@ -213,7 +239,8 @@
         "examples": ["She eats a lot of fresh fruit every day."],
         "type": "noun",
         "pronunciation": "fruːt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fru/fruit/fruit__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fru/fruit/fruit__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_fruit.jpg"
     },
     {
         "word": "apple",
@@ -221,7 +248,8 @@
         "examples": ["He ate an apple after lunch."],
         "type": "noun",
         "pronunciation": "ˈæp.əl",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/app/apple/apple__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_apple.jpg"
     },
     {
         "word": "banana",
@@ -229,7 +257,8 @@
         "examples": ["She peeled a banana for breakfast."],
         "type": "noun",
         "pronunciation": "bəˈnæn.ə",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ban/banan/banana__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_banana.jpg"
     },
     {
         "word": "grape",
@@ -237,7 +266,8 @@
         "examples": ["He ate a bunch of grapes for dessert."],
         "type": "noun",
         "pronunciation": "ɡreɪp",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grape/grape__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grape/grape__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_grape.jpg"
     },
     {
         "word": "orange",
@@ -245,7 +275,8 @@
         "examples": ["She drank a glass of orange juice."],
         "type": "noun",
         "pronunciation": "ˈɔːr.ɪndʒ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ora/orang/orange__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/ora/orang/orange__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_orange.jpg"
     },
     {
         "word": "lemon",
@@ -253,7 +284,8 @@
         "examples": ["Add some lemon juice to the tea."],
         "type": "noun",
         "pronunciation": "ˈlem.ən",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lem/lemon/lemon__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lem/lemon/lemon__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_lemon.jpg"
     },
     {
         "word": "watermelon",
@@ -261,7 +293,8 @@
         "examples": ["They ate slices of watermelon on a hot day."],
         "type": "noun",
         "pronunciation": "ˈwɑː.t̬ɚˌmel.ən",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/watermelon__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/watermelon__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_watermelon.jpg"
     },
     {
         "word": "pineapple",
@@ -269,7 +302,8 @@
         "examples": ["She added pineapple to the fruit salad."],
         "type": "noun",
         "pronunciation": "ˈpaɪˌnæp.əl",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pin/pinea/pineapple__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pin/pinea/pineapple__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pineapple.jpg"
     },
     {
         "word": "mango",
@@ -277,7 +311,8 @@
         "examples": ["Ripe mangoes are sweet and fragrant."],
         "type": "noun",
         "pronunciation": "ˈmæŋ.ɡoʊ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/mango/mango__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/man/mango/mango__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_mango.jpg"
     },
     {
         "word": "strawberry",
@@ -285,7 +320,8 @@
         "examples": ["She topped her cake with strawberries."],
         "type": "noun",
         "pronunciation": "ˈstrɔːˌber.i",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/straw/strawberry__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/straw/strawberry__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_strawberry.jpg"
     },
     {
         "word": "pear",
@@ -293,7 +329,8 @@
         "examples": ["He bit into a juicy pear."],
         "type": "noun",
         "pronunciation": "per",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/pear_/pear__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/pear_/pear__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_pear.jpg"
     },
     {
         "word": "cherry",
@@ -301,7 +338,8 @@
         "examples": ["She put a cherry on top of the ice cream."],
         "type": "noun",
         "pronunciation": "ˈtʃer.i",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/cherr/cherry__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/che/cherr/cherry__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_cherry.jpg"
     },
     {
         "word": "peach",
@@ -309,7 +347,8 @@
         "examples": ["The peaches are ripe and sweet this season."],
         "type": "noun",
         "pronunciation": "piːtʃ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/peach/peach__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pea/peach/peach__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_peach.jpg"
     },
     {
         "word": "coconut",
@@ -317,7 +356,8 @@
         "examples": ["Coconut milk is used in many Asian dishes."],
         "type": "noun",
         "pronunciation": "ˈkoʊ.kə.nʌt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coc/cocon/coconut__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coc/cocon/coconut__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_coconut.jpg"
     },
     {
         "word": "melon",
@@ -325,7 +365,8 @@
         "examples": ["He cut the melon into slices."],
         "type": "noun",
         "pronunciation": "ˈmel.ən",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mel/melon/melon__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mel/melon/melon__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_melon.jpg"
     },
     {
         "word": "grapefruit",
@@ -333,7 +374,8 @@
         "examples": ["She ate half a grapefruit for breakfast."],
         "type": "noun",
         "pronunciation": "ˈɡreɪp.fruːt",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grape/grapefruit__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grape/grapefruit__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_grapefruit.jpg"
     },
     {
         "word": "berry",
@@ -341,7 +383,8 @@
         "examples": ["Berries are rich in vitamins."],
         "type": "noun",
         "pronunciation": "ˈber.i",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ber/berry/berry__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/ber/berry/berry__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_berry.jpg"
     },
     {
         "word": "milk",
@@ -349,7 +392,8 @@
         "examples": ["He drinks a glass of milk every morning."],
         "type": "noun",
         "pronunciation": "mɪlk",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milk_/milk__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mil/milk_/milk__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_milk.jpg"
     },
     {
         "word": "tea",
@@ -357,7 +401,8 @@
         "examples": ["She prefers green tea in the morning."],
         "type": "noun",
         "pronunciation": "tiː",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tea/tea__/tea__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_tea.jpg"
     },
     {
         "word": "coffee",
@@ -365,7 +410,8 @@
         "examples": ["He ordered a cup of black coffee."],
         "type": "noun",
         "pronunciation": "ˈkɑː.fi",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cof/coffe/coffee__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cof/coffe/coffee__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_coffee.jpg"
     },
     {
         "word": "juice",
@@ -373,7 +419,8 @@
         "examples": ["She poured orange juice into a glass."],
         "type": "noun",
         "pronunciation": "dʒuːs",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jui/juice/juice__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jui/juice/juice__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_juice.jpg"
     },
     {
         "word": "water",
@@ -381,7 +428,8 @@
         "examples": ["Drink plenty of water every day."],
         "type": "noun",
         "pronunciation": "ˈwɔː.t̬ɚ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wat/water/water__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_water.jpg"
     },
     {
         "word": "ice",
@@ -389,7 +437,8 @@
         "examples": ["She put ice cubes in the drink."],
         "type": "noun",
         "pronunciation": "aɪs",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice__/ice__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice__/ice__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_ice.jpg"
     },
     {
         "word": "cake",
@@ -397,7 +446,8 @@
         "examples": ["She baked a chocolate cake for his birthday."],
         "type": "noun",
         "pronunciation": "keɪk",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cak/cake_/cake__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cak/cake_/cake__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_cake.jpg"
     },
     {
         "word": "cookie",
@@ -405,7 +455,8 @@
         "examples": ["He ate a chocolate chip cookie."],
         "type": "noun",
         "pronunciation": "ˈkʊk.i",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/cooki/cookie__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/coo/cooki/cookie__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_cookie.jpg"
     },
     {
         "word": "chocolate",
@@ -413,7 +464,8 @@
         "examples": ["She loves dark chocolate."],
         "type": "noun",
         "pronunciation": "ˈtʃɑː.klət",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cho/choco/chocolate__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cho/choco/chocolate__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_chocolate.jpg"
     },
     {
         "word": "ice cream",
@@ -421,7 +473,8 @@
         "examples": ["We had vanilla ice cream for dessert."],
         "type": "noun",
         "pronunciation": "ˈaɪs ˌkriːm",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice_c/ice_cream__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ice/ice_c/ice_cream__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_ice_cream.jpg"
     },
     {
         "word": "honey",
@@ -429,7 +482,8 @@
         "examples": ["She likes honey in her tea."],
         "type": "noun",
         "pronunciation": "ˈhʌn.i",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hon/honey/honey__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hon/honey/honey__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_honey.jpg"
     },
     {
         "word": "jam",
@@ -437,7 +491,8 @@
         "examples": ["She spread strawberry jam on the toast."],
         "type": "noun",
         "pronunciation": "dʒæm",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jam/jam__/jam__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jam/jam__/jam__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_jam.jpg"
     },
     {
         "word": "breakfast",
@@ -445,7 +500,8 @@
         "examples": ["She eats eggs and toast for breakfast."],
         "type": "noun",
         "pronunciation": "ˈbrek.fəst",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakfast__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/bre/break/breakfast__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_breakfast.jpg"
     },
     {
         "word": "lunch",
@@ -453,7 +509,8 @@
         "examples": ["They had sandwiches for lunch."],
         "type": "noun",
         "pronunciation": "lʌntʃ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lun/lunch/lunch__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lun/lunch/lunch__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_lunch.jpg"
     },
     {
         "word": "dinner",
@@ -461,6 +518,7 @@
         "examples": ["We had chicken and rice for dinner."],
         "type": "noun",
         "pronunciation": "ˈdɪn.ɚ",
-        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/din/dinne/dinner__us_1.mp3"
+        "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/din/dinne/dinner__us_1.mp3",
+        "image": "https://study4.com/media/vocabs_media/img/9_dinner.jpg"
     }
 ]
