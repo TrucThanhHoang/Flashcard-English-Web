@@ -1,0 +1,188 @@
+[
+    {
+      "text": "Choose the correct sentence:",
+      "choices": [
+        "He don't like coffee.",
+        "He doesn't likes coffee.",
+        "He doesn't like coffee.",
+        "He don't likes coffee."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which word is a synonym of 'happy'?",
+      "choices": ["angry", "joyful", "sad", "tired"],
+      "correct": 1
+    },
+    {
+      "text": "Fill in: She ____ to Paris last year.",
+      "choices": ["go", "went", "gone", "going"],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct preposition: I am good ___ tennis.",
+      "choices": ["in", "at", "on", "for"],
+      "correct": 1
+    },
+    {
+      "text": "Which sentence is passive voice?",
+      "choices": [
+        "The chef cooked the meal.",
+        "The meal was cooked by the chef.",
+        "The chef will cook the meal.",
+        "The chef is cooking the meal."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pick the correct plural form:",
+      "choices": ["Childs", "Children", "Childes", "Child"],
+      "correct": 1
+    },
+    {
+      "text": "What is the comparative of 'good'?",
+      "choices": ["gooder", "better", "more good", "best"],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct article: ___ university is famous for research.",
+      "choices": ["A", "An", "The", "No article"],
+      "correct": 0
+    },
+    {
+      "text": "Select the correct past perfect form:",
+      "choices": ["I had went", "I have gone", "I had gone", "I gone"],
+      "correct": 2
+    },
+    {
+      "text": "Which word is an antonym of 'difficult'?",
+      "choices": ["easy", "hard", "tough", "complex"],
+      "correct": 0
+    },
+    {
+      "text": "Choose the correct modal: You ____ wear a helmet. It's required.",
+      "choices": ["must", "might", "could", "may"],
+      "correct": 0
+    },
+    {
+      "text": "Fill the blank: They have lived here ____ 2010.",
+      "choices": ["for", "since", "from", "at"],
+      "correct": 1
+    },
+    {
+      "text": "Pick the correct verb form: If I ____ you, I would apologize.",
+      "choices": ["am", "was", "were", "be"],
+      "correct": 2
+    },
+    {
+      "text": "Choose the correct sentence:",
+      "choices": [
+        "There is much people in the room.",
+        "There are many people in the room.",
+        "There is many people in the room.",
+        "There are much people in the room."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which word is a synonym of 'quick'?",
+      "choices": ["slow", "rapid", "late", "lazy"],
+      "correct": 1
+    },
+    {
+      "text": "Select the correct tense: She is interested ____ learning English.",
+      "choices": ["on", "in", "at", "to"],
+      "correct": 1
+    },
+    {
+      "text": "Which sentence uses the future continuous?",
+      "choices": [
+        "I will study tomorrow.",
+        "I will be studying at 8 PM.",
+        "I study every day.",
+        "I am going to study now."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct phrasal verb: He woke up late and ____ the bus.",
+      "choices": ["looked after", "made up", "missed", "turned off"],
+      "correct": 2
+    },
+    {
+      "text": "Pick the correct form: The movie was ____ than I expected.",
+      "choices": ["more good", "better", "gooder", "best"],
+      "correct": 1
+    },
+    {
+      "text": "Select the correct preposition: We arrived ____ the airport early.",
+      "choices": ["to", "in", "at", "on"],
+      "correct": 2
+    },
+    {
+      "text": "Which sentence is correct?",
+      "choices": [
+        "Everyone are happy.",
+        "Everyone is happy.",
+        "Everyone be happy.",
+        "Everyone were happy."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct form: She has ____ friends.",
+      "choices": ["a lot of", "many of", "a few of", "few of"],
+      "correct": 0
+    },
+    {
+      "text": "Fill in: They ____ playing football now.",
+      "choices": ["is", "are", "be", "were"],
+      "correct": 1
+    },
+    {
+      "text": "Which is a phrasal verb?",
+      "choices": ["run", "eat", "give up", "walk"],
+      "correct": 2
+    },
+    {
+      "text": "Choose the correct article: She adopted ____ cat yesterday.",
+      "choices": ["a", "an", "the", "no article"],
+      "correct": 0
+    },
+    {
+      "text": "Pick the correct meaning of 'purchase':",
+      "choices": ["to buy", "to call", "to sell", "to break"],
+      "correct": 0
+    },
+    {
+      "text": "Fill the blank: My house is ____ than yours.",
+      "choices": ["big", "bigger", "more big", "biggest"],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct connective: I studied hard, ____ I failed.",
+      "choices": ["so", "but", "because", "and"],
+      "correct": 1
+    },
+    {
+      "text": "Which sentence is in present perfect?",
+      "choices": [
+        "I eat breakfast.",
+        "I have eaten breakfast.",
+        "I am eating breakfast.",
+        "I will eat breakfast."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Choose the correct question form:",
+      "choices": [
+        "Where you are going?",
+        "Where are you going?",
+        "Where going you are?",
+        "Where are going you?"
+      ],
+      "correct": 1
+    }
+  ]
+  

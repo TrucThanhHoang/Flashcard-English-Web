@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>English Quiz</title>
+<style>
+  :root{--bg:#0f1724;--card:#0b1220;--accent:#6ee7b7;--muted:#9aa4b2}
+  *{box-sizing:border-box}
+  body{font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;margin:0;background:linear-gradient(180deg,#071129 0%, #0b1a2a 100%);color:#e6eef6;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+  .container{width:100%;max-width:920px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.02));border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.7);overflow:hidden}
+  header{display:flex;align-items:center;justify-content:space-between;padding:20px 24px;border-bottom:1px solid rgba(255,255,255,0.03)}
+  header h1{font-size:20px;margin:0}
+  header .meta{font-size:13px;color:var(--muted)}
+
+  main{display:grid;grid-template-columns:1fr 320px;gap:20px;padding:28px}
+  @media(max-width:880px){main{grid-template-columns:1fr;}}
+
+  .card{background:rgba(0,0,0,0.5);padding:20px;border-radius:10px;color:#fff} /* text trắng cho card */
+  .question{font-size:18px;margin:0 0 14px}
+  .choices{display:flex;flex-direction:column;gap:10px}
+  .choice{
+    background:transparent;
+    border:1px solid rgba(255,255,255,0.2);
+    padding:12px;
+    border-radius:8px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:12px;
+    color:#fff; /* chữ trắng */
+    transition: all 0.2s;
+  }
+  .choice:hover{border-color:rgba(110,231,183,0.5)}
+  .choice.correct{background:linear-gradient(90deg, rgba(110,231,183,0.2), rgba(110,231,183,0.1));border-color:rgba(110,231,183,0.7)}
+  .choice.wrong{background:linear-gradient(90deg, rgba(255,120,120,0.2), rgba(255,120,120,0.1));border-color:rgba(255,120,120,0.5)}
+  .choice input{accent-color:var(--accent)}
+
+  .controls{display:flex;justify-content:space-between;align-items:center;margin-top:18px;gap:12px}
+  .btn{background:var(--accent);color:#042027;padding:10px 14px;border-radius:8px;border:none;cursor:pointer;font-weight:600}
+  .btn.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted)}
+
+  aside{width:100%;max-width:320px}
+  .stat{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+  .progress{height:10px;background:rgba(255,255,255,0.04);border-radius:999px;overflow:hidden}
+  .progress > i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),#8bd3ff);width:0%}
+
+  .timer{font-weight:700;color:var(--accent)}
+  .highscore{font-size:13px;color:var(--muted)}
+
+  footer{padding:14px 24px;border-top:1px solid rgba(255,255,255,0.03);display:flex;justify-content:space-between;align-items:center}
+
+  .small{font-size:13px;color:var(--muted)}
+
+  /* responsive tweaks */
+  @media(max-width:500px){header h1{font-size:16px}.question{font-size:16px}}
+</style>
+
+</head>
+<body>
+  <div class="container" role="application" aria-label="English quiz">
+    <header>
+      <h1>English Quiz — Level: General</h1>
+      <div class="meta">Questions: <span id="totalCount">0</span> • <span id="difficulty">Mixed</span></div>
+    </header>
+
+    <main>
+      <section class="card" aria-live="polite">
+        <p class="small">Question <strong id="qIndex">0</strong>/<strong id="qTotal">0</strong></p>
+        <h2 class="question" id="question">Loading...</h2>
+
+        <div class="choices" id="choices" role="list"></div>
+
+        <div class="controls">
+          <div style="display:flex;gap:8px">
+            <button class="btn ghost" id="prevBtn">Previous</button>
+            <button class="btn ghost" id="nextBtn">Next</button>
+          </div>
+          <div style="display:flex;gap:8px;align-items:center">
+            <button class="btn" id="submitBtn">Submit Answer</button>
+            <button class="btn ghost" id="restartBtn">Restart</button>
+          </div>
+        </div>
+      </section>
+
+      <aside>
+        <div class="card">
+          <div class="stat"><div class="small">Progress</div><div class="small" id="progressText">0%</div></div>
+          <div class="progress" aria-hidden="true"><i id="progressBar"></i></div>
+
+          <div style="height:12px"></div>
+
+          <div class="stat"><div class="small">Score</div><div class="small" id="score">0</div></div>
+
+          <div style="height:12px"></div>
+
+          <div class="stat"><div class="small">Timer</div><div class="timer" id="timer">—</div></div>
+
+          <hr style="border:none;height:1px;background:rgba(255,255,255,0.03);margin:14px 0">
+
+          <div class="small highscore">Highscore: <strong id="highscore">0</strong></div>
+          <div class="small" style="margin-top:12px">Tip: click any choice to select, then click <em>Submit Answer</em>.</div>
+        </div>
+      </aside>
+    </main>
+
+    <footer>
+      <div class="small">Built with ❤️ — editable single-file quiz</div>
+      <div class="small">You can add/remove questions in the <code>questions</code> array (script).</div>
+    </footer>
+  </div>
+
+  <script>
+    // ======= Quiz data =======
+    // Add more question objects here. Each question has: text, choices (array), correct (index)
+    const questions = [
+  {text:"Choose the correct sentence:", choices:[
+    "He don't like coffee.","He doesn't likes coffee.","He doesn't like coffee.","He don't likes coffee."
+  ], correct:2},
+
+  {text:"Which word is a synonym of 'happy'?", choices:[
+    "angry","joyful","sad","tired"
+  ], correct:1},
+
+  {text:"Fill in: She ____ to Paris last year.", choices:[
+    "go","went","gone","going"
+  ], correct:1},
+
+  {text:"Choose the correct preposition: I am good ___ tennis.", choices:[
+    "in","at","on","for"
+  ], correct:1},
+
+  {text:"Which sentence is passive voice?", choices:[
+    "The chef cooked the meal.","The meal was cooked by the chef.","The chef will cook the meal.","The chef is cooking the meal."
+  ], correct:1},
+
+  {text:"Pick the correct plural form:", choices:[
+    "Childs","Children","Childes","Child"
+  ], correct:1},
+
+  {text:"What is the comparative of 'good'?", choices:[
+    "gooder","better","more good","best"
+  ], correct:1},
+
+  {text:"Choose the correct article: ___ university is famous for research.", choices:[
+    "A","An","The","No article"
+  ], correct:0},
+
+  // ---- NEW QUESTIONS BELOW ----
+
+  {text:"Choose the correct past form of 'run':", choices:["runned","ran","run","running"], correct:1},
+
+  {text:"Which word is an antonym of 'cold'?", choices:["warm","cool","freeze","icy"], correct:0},
+
+  {text:"Fill in: They ____ English every day.", choices:["study","studies","studying","studied"], correct:0},
+
+  {text:"Choose the correct sentence:", choices:[
+    "He have a car.","He has a car.","He haves a car.","He has got a car?"
+  ], correct:1},
+
+  {text:"Find the adjective:", choices:["quickly","quick","quicker","quit"], correct:1},
+
+  {text:"Choose the correct form: She is ____ than her sister.", choices:[
+    "tall","taller","tallest","more tall"
+  ], correct:1},
+
+  {text:"Select the correct pronoun: ___ is my friend.", choices:[
+    "Them","They","He","We"
+  ], correct:2},
+
+  {text:"Fill in: The book is ___ the table.", choices:[
+    "on","in","at","to"
+  ], correct:0},
+
+  {text:"Choose the correct modal verb: You ___ stop smoking.", choices:[
+    "should","must to","can to","ought"
+  ], correct:0},
+
+  {text:"Which one is a noun?", choices:["beautiful","beauty","beautify","beautifying"], correct:1},
+
+  {text:"Pick the correct sentence:", choices:[
+    "There is many people here.","There are many people here.","There is a lot people.","There are much people here."
+  ], correct:1},
+
+  {text:"Which one means 'very big'?", choices:["tiny","huge","small","narrow"], correct:1},
+
+  {text:"Fill in: If I ___ money, I would travel the world.", choices:[
+    "have","had","has","having"
+  ], correct:1},
+
+  {text:"Choose the correct tag question: He’s a student, ___?", choices:["is he","isn't he","does he","doesn't he"], correct:1},
+
+  {text:"Which is a synonym of 'angry'?", choices:["furious","delighted","calm","gentle"], correct:0},
+
+  {text:"Choose the correct form: I have lived here ___ 2010.", choices:[
+    "for","since","from","during"
+  ], correct:1},
+
+  {text:"Choose the correct sentence:", choices:[
+    "I am boring.","I am bored.","I bored.","I bore."
+  ], correct:1},
+
+  {text:"Fill in: My brother is interested ___ science.", choices:[
+    "in","on","to","for"
+  ], correct:0},
+
+  {text:"Choose the correct conditional form:", choices:[
+    "If it rains, we would stay home.","If it rained, we would stay home.","If it will rain, we stay home.","If it rained, we will stay home."
+  ], correct:1},
+
+  {text:"Pick the correct word: A person who writes books is a ___", choices:[
+    "painter","driver","author","actor"
+  ], correct:2},
+
+  {text:"Choose the correct tense: 'I have finished my homework' is in ___", choices:[
+    "Present Simple","Past Simple","Present Perfect","Past Perfect"
+  ], correct:2},
+
+  {text:"Find the adverb:", choices:["slowly","slow","slower","slowest"], correct:0},
+
+  {text:"Fill in: This is the ___ movie I’ve ever seen.", choices:[
+    "more interesting","most interesting","interestinger","interestingest"
+  ], correct:1},
+
+  {text:"Which is a verb?", choices:["decision","decide","decisive","decisively"], correct:1},
+
+  {text:"Choose the correct sentence:", choices:[
+    "She don’t know.","She doesn’t know.","She doesn’t knows.","She not know."
+  ], correct:1},
+
+  {text:"Pick the correct preposition: We will meet ___ 5 PM.", choices:[
+    "in","at","on","for"
+  ], correct:1},
+
+  {text:"Choose the correct form: He is the ___ person in the group.", choices:[
+    "tall","taller","tallest","most tall"
+  ], correct:2},
+
+  {text:"Which one is a synonym of 'smart'?", choices:[
+    "intelligent","lazy","weak","poor"
+  ], correct:0},
+
+  {text:"Fill in: They ___ dinner when I arrived.", choices:[
+    "eat","ate","were eating","eating"
+  ], correct:2},
+
+  {text:"Choose the correct spelling:", choices:[
+    "definately","definitely","defanitely","definetely"
+  ], correct:1},
+
+  {text:"Choose the correct possessive form:", choices:[
+    "This is Johns car.","This is John's car.","This is John car.","This is Johns' car."
+  ], correct:1},
+
+  {text:"Which is an antonym of 'fast'?", choices:["quick","rapid","slow","swift"], correct:2},
+
+  {text:"Fill in: He can't drive, ___ he?", choices:[
+    "can","can't","does","doesn't"
+  ], correct:0},
+
+  {text:"Pick the correct preposition: She apologized ___ me.", choices:[
+    "to","for","at","with"
+  ], correct:0},
+
+  {text:"Choose the correct form: They have lived here ___ ten years.", choices:[
+    "since","for","during","from"
+  ], correct:1},
+
+  {text:"Pick the correct answer: A person who teaches is a ___", choices:[
+    "doctor","teacher","driver","pilot"
+  ], correct:1},
+
+  {text:"Choose the correct article: I bought ___ umbrella.", choices:[
+    "a","an","the","no article"
+  ], correct:1},
+
+  {text:"Fill in: I was tired ___ I went to bed early.", choices:[
+    "but","because","so","although"
+  ], correct:2},
+
+  {text:"Which is correct?", choices:[
+    "Its raining.","It's raining.","Its' raining.","It raining."
+  ], correct:1}
+];
+
+
+    // ======= State =======
+    let current = 0;
+    let score = 0;
+    let selectedIndex = null;
+    const total = questions.length;
+
+    // Timer (optional): per-question countdown in seconds
+    const TIMER_PER_QUESTION = 30; // seconds, set to 0 to disable
+    let timer = TIMER_PER_QUESTION;
+    let timerInterval = null;
+
+    // ======= DOM elements =======
+    const qIndexEl = document.getElementById('qIndex');
+    const qTotalEl = document.getElementById('qTotal');
+    const questionEl = document.getElementById('question');
+    const choicesEl = document.getElementById('choices');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const submitBtn = document.getElementById('submitBtn');
+    const restartBtn = document.getElementById('restartBtn');
+    const scoreEl = document.getElementById('score');
+    const progressBar = document.getElementById('progressBar');
+    const progressText = document.getElementById('progressText');
+    const totalCount = document.getElementById('totalCount');
+    const difficulty = document.getElementById('difficulty');
+    const timerEl = document.getElementById('timer');
+    const highscoreEl = document.getElementById('highscore');
+
+    // store user answers so we can show feedback when revisiting
+    const answers = Array(total).fill(null);
+
+    // ======= Initialization =======
+    function init(){
+      totalCount.textContent = total;
+      qTotalEl.textContent = total;
+      difficulty.textContent = 'Mixed';
+      loadHighscore();
+      renderQuestion();
+    }
+
+    function loadHighscore(){
+      const hs = localStorage.getItem('english_quiz_highscore');
+      highscoreEl.textContent = hs ? hs : 0;
+    }
+
+    // ======= Rendering =======
+    function renderQuestion(){
+      stopTimer();
+      const q = questions[current];
+      qIndexEl.textContent = current + 1;
+      questionEl.textContent = q.text;
+      choicesEl.innerHTML = '';
+
+      q.choices.forEach((c, i) =>{
+        const btn = document.createElement('button');
+        btn.className = 'choice';
+        btn.type = 'button';
+        btn.setAttribute('role','listitem');
+        btn.innerHTML = `<span style="flex:1;text-align:left">${c}</span>`;
+        btn.addEventListener('click', ()=> selectChoice(i));
+
+        // if user already answered, show correct/wrong states
+        const prev = answers[current];
+        if(prev !== null){
+          if(i === q.correct) btn.classList.add('correct');
+          if(i === prev && prev !== q.correct) btn.classList.add('wrong');
+          btn.disabled = true;
+        }
+
+        choicesEl.appendChild(btn);
+      });
+
+      // update UI
+      updateProgress();
+      scoreEl.textContent = score;
+      selectedIndex = answers[current];
+      if(TIMER_PER_QUESTION>0) startTimer();
+    }
+
+    function selectChoice(i){
+      // highlight selection (local before submit)
+      const buttons = choicesEl.querySelectorAll('.choice');
+      buttons.forEach((b, idx)=>{
+        b.classList.remove('selected');
+        if(idx === i) b.classList.add('selected');
+      });
+      selectedIndex = i;
+    }
+
+    function submitAnswer(){
+      if(selectedIndex === null){
+        alert('Please choose an answer before submitting.');
+        return;
+      }
+      const q = questions[current];
+      const prev = answers[current];
+      if(prev !== null) return; // already answered
+
+      answers[current] = selectedIndex;
+
+      const buttons = choicesEl.querySelectorAll('.choice');
+      buttons.forEach((b, idx)=>{
+        b.disabled = true;
+        if(idx === q.correct) b.classList.add('correct');
+        if(idx === selectedIndex && selectedIndex !== q.correct) b.classList.add('wrong');
+      });
+
+      if(selectedIndex === q.correct){ score += 1; scoreEl.textContent = score; }
+
+      updateProgress();
+      saveHighscore();
+      stopTimer();
+    }
+
+    function saveHighscore(){
+      const prev = Number(localStorage.getItem('english_quiz_highscore') || 0);
+      if(score > prev){
+        localStorage.setItem('english_quiz_highscore', score);
+        highscoreEl.textContent = score;
+      }
+    }
+
+    function updateProgress(){
+      const answered = answers.filter(x=>x!==null).length;
+      const percent = Math.round((answered / total) * 100);
+      progressBar.style.width = percent + '%';
+      progressText.textContent = percent + '%';
+    }
+
+    // ======= Navigation =======
+    prevBtn.addEventListener('click', ()=>{ if(current>0){ current--; renderQuestion(); }});
+    nextBtn.addEventListener('click', ()=>{ if(current<total-1){ current++; renderQuestion(); }});
+    submitBtn.addEventListener('click', submitAnswer);
+    restartBtn.addEventListener('click', ()=>{
+      if(!confirm('Restart quiz? Your current progress will be lost.')) return;
+      current = 0; score = 0; selectedIndex = null; answers.fill(null); scoreEl.textContent = score; renderQuestion();
+    });
+
+    // ======= Timer functions =======
+    function startTimer(){
+      if(TIMER_PER_QUESTION<=0) return;
+      timer = TIMER_PER_QUESTION;
+      timerEl.textContent = formatTime(timer);
+      timerInterval = setInterval(()=>{
+        timer -=1;
+        if(timer<=0){
+          clearInterval(timerInterval);
+          timerEl.textContent = '0s';
+          // auto-submit as incorrect if no selection
+          if(answers[current] === null){
+            // mark as answered with null (treated wrong)
+            answers[current] = null; // explicit
+            // visually disable choices and show correct answer
+            const buttons = choicesEl.querySelectorAll('.choice');
+            buttons.forEach((b, idx)=>{ b.disabled=true; if(idx===questions[current].correct) b.classList.add('correct'); });
+            updateProgress();
+          }
+        } else {
+          timerEl.textContent = formatTime(timer);
+        }
+      },1000);
+    }
+    function stopTimer(){ if(timerInterval) clearInterval(timerInterval); timerInterval=null; timerEl.textContent = TIMER_PER_QUESTION>0 ? formatTime(TIMER_PER_QUESTION) : '—'; }
+    function formatTime(s){ return s + 's'; }
+
+    // ======= Kickoff =======
+    init();
+
+    // ======= Utility: make it easy to add questions via console =======
+    window.Quiz = {questions, answers, renderQuestion, submitAnswer, restart: ()=>{restartBtn.click();}};
+  </script>
+</body>
+</html>
